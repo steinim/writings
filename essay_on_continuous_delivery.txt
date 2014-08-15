@@ -15,8 +15,4 @@ Technically skilled people are used to solving challenges. The more freedom and 
 
 ----
 
-
-Status : Failure -Test failed: Listener refused the connection with the following error:
-ORA-12505, TNS:listener does not currently know of SID given in connect descriptor
- 
  
