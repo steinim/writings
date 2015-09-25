@@ -2,7 +2,7 @@
 
 Et prosjekt er en arbeidsform som er avgrenset fra de aktivitetene en organisasjon vanligvis gjennomfører. Det er avgrenset i tid og har et mål for hva man vil ha oppnådd når prosjektperioden er over. Typisk etableres det som en midlertidig organisasjon med personer som enten skal ut eller tilbake til linja. Formålet er å styrke virksomhetens evne til suksess i tiden som kommer. Det er arbeidsformen dessverre lite egnet til.
 
-Det er flere årsaker til det. Eksempler er at det er vanskelig å måle realisering av gevinst, konflikt mellom prosjektets mål og virksomhetens mål, silo-tankegang, stor avstand mellom prosjekt- og linjeorganisasjon, en kortsiktig finansieringsmodell, manglende kommunikasjon og utfordringer med overlevering og kunnskapsoverføring.  
+Det er flere årsaker til at prosjekter er lite egnet som arbeidsform. Eksempler er at det er vanskelig å måle realisering av gevinst, konflikt mellom prosjektets mål og virksomhetens mål, silo-tankegang, stor avstand mellom prosjekt- og linjeorganisasjon, en kortsiktig finansieringsmodell, manglende kommunikasjon og utfordringer med overlevering og kunnskapsoverføring.  
 
 Alternativet er å behandle leveransene som kontinuerlige produktutviklingsløp i linja. Det vil da være enklere å måle gevinster kontinuerlig, justere initiativene opp mot virksomhetens mål, tettere samarbeid, nedbryting av siloer, løpende finansiering, bedre kommunikasjon og kunnskapsbygging istedenfor kunnskapsoverlevering.
 
