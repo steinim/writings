@@ -10,7 +10,13 @@ Alternativet er å behandle leveransene som kontinuerlige produktutviklingsløp 
 
 
 
+## "You build it, you run it!"
 
+## Feature teams vs. Component teams
+
+## DevOps, Kontinuerlige Leveranser og Sky
+
+## Oppsummering
 
 
 
