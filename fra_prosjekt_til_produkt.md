@@ -1,6 +1,6 @@
 # Slutt med IT-prosjekter!
 
-De store IT-prosjektenes tid er heldigvis forbi om man skal tro alt man leser, men hva med de "små"? Selv "smidige" prosjekter forventes å bli ferdige på en eller annen dato i fremtiden, og når systemet er levert, skal det overleveres til linja. Er det virkelig bare størrelsen som er problemet, eller er det selve arbeidsformen som ikke fungerer? 
+De store IT-prosjektenes tid er heldigvis forbi om man skal tro alt man leser, men hva med de små? Selv Smidige prosjekter forventes å bli ferdige på en eller annen dato i fremtiden, og når systemet er levert, skal det overleveres til linja. Er det virkelig bare størrelsen som er problemet, eller er det selve arbeidsformen som ikke fungerer? 
 
 ---
 
