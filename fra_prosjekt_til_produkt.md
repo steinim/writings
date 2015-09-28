@@ -1,17 +1,13 @@
 <!--
 # Slutt med IT-prosjekter!
 
-De store IT-prosjektenes tid er heldigvis forbi om man skal tro alt man leser, men hva med de "små"? Selv "smidige" prosjekter forventes å bli ferdige på en eller annen dato i fremtiden, og når systemet er levert, skal det overleveres til linja. Er det virkelig bare størrelsen som er problemet, eller er det selve arbeidsformen som ikke fungerer? 
+De store IT-prosjektenes tid er heldigvis forbi om man skal tro alt man leser, men hva med de mindre prosjektene? Selv Smidige prosjekter forventes å bli ferdige på en eller annen dato i fremtiden, og når systemet er levert, skal det overleveres til linja. Er det virkelig bare størrelsen som er problemet, eller er det selve arbeidsformen som ikke fungerer? 
 
 -->
 
 Et prosjekt er en arbeidsform som er avgrenset fra de aktivitetene en organisasjon vanligvis gjennomfører. Det er avgrenset i tid og har et mål for hva man vil ha oppnådd når prosjektperioden er over. Typisk etableres det som en midlertidig organisasjon med personer som enten skal ut, eller tilbake til linja. Formålet er å styrke virksomhetens evne til suksess i tiden som kommer. Det er arbeidsformen dessverre lite egnet til.
 
-Det er flere årsaker til at prosjekt som arbeidsform er lite egnet. Eksempler er at det er vanskelig å måle realisering av gevinst, konflikt mellom prosjektets mål og virksomhetens mål, stor avstand mellom prosjekt- og linjeorganisasjon, en kortsiktig finansieringsmodell, manglende kommunikasjon og utfordringer med overlevering og kunnskapsoverføring.
-
 Mange IT-prosjekter benytter en Smidig gjennomføringsmodell. Dette gjør de for å få bedre forutsigbarhet i prosjektene sine. Det er vel og bra, men ikke tilstrekkelig. Problemet sitter ikke i Smidig som sådan, men utenfor. Om Smidig lykkes i å unnfange og utvikle programvare raskt og taktfast så må alt utenfor være i stand til å ta imot det som produseres i samme takt. Hovedutfordringene med det er at mottaksaparatet sjeldent sitter i prosjektene selv og at Smidige prosjekter sjeldent tar inn over seg at programvareutvikling strekker seg langt utover å levere "programvare som fungerer". Hvordan programvaren oppfører seg i produksjon etter overlevering er dessverre alt for sjeldent Smidig-teamets ansvar.
-
-Alternativet er å behandle leveransene som kontinuerlige produktutviklingsløp i linja. Det vil da være enklere å måle gevinster kontinuerlig, justere initiativene opp mot virksomhetens mål, involvere hele organisasjonen, løpende finansiering, bedre kommunikasjon og kunnskapsbygging istedenfor kunnskapsoverlevering.
 
 ## "You Build It, You Run It"
 Prosjektmedlemmer er avgrenset fra linjeorganisasjonen, og deres involvering med produktene de lager er tidsbegrenset. De slipper å leve med de langsiktige resultatene av deres egne arkitektur- og designbeslutninger. Linjeorganisasjonen er som regel underbemannet og har knappe ressurser og liten evne til å håndtere overleveringer fra prosjekter. De må dessuten administrere, overvåke og supportere eksisterende IT-systemer. Dette medfører som regel dårligere utviklingspraksiser og gradvis forverret kvalitet. Dette forsterkes ytterligere av at man som regel har dårlig tid i prosjekter. Prosjektmedlemmene er som regel skjermet fra analyse og gjenoppretting ved produksjonsproblemer. De tvinges ikke til å legge inn nødvendig overvåkning og nødvendig logging for analyse av rot-årsaker. Teamet gjør ofte et begrenset antall produksjonssettinger og har derfor få insentiver til å investere i automatisering og produksjonslike miljøer.
