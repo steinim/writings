@@ -1,9 +1,9 @@
-<!--# Slutt med IT-prosjekter!
+# Slutt med IT-prosjekter!
 
 De store IT-prosjektenes tid er heldigvis forbi om man skal tro alt man leser, men hva med de små? Selv Smidige prosjekter forventes å bli ferdige på en eller annen dato i fremtiden, og når systemet er levert, skal det overleveres til linja. Er det virkelig bare størrelsen som er problemet, eller er det selve arbeidsformen som ikke fungerer? 
 
 ---
--->
+
 Et prosjekt er en arbeidsform som er avgrenset fra de aktivitetene en organisasjon vanligvis gjennomfører. Det er avgrenset i tid og har et mål for hva man vil ha oppnådd når prosjektperioden er over. Typisk etableres det som en midlertidig organisasjon med personer som enten skal ut, eller tilbake til linja. Formålet er å styrke virksomhetens evne til suksess i tiden som kommer. I følge PMI: "Et prosjekt er en tidsavgrenset bestrebelse for å skape et unikt produkt eller en tjeneste" (Project Management Institute, 2004).
 
 Det er flere årsaker til at prosjekt som arbeidsform er lite egnet. Eksempler er at det er vanskelig å realisere gevinster fortløpende og så tidlig som mulig, konflikt mellom prosjektets mål og virksomhetens mål, stor avstand mellom prosjekt- og linjeorganisasjon, en kortsiktig finansieringsmodell og utfordringer med overlevering og kunnskapsoverføring.
