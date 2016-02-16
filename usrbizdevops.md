@@ -5,7 +5,7 @@ Alle snakker om DevOps. Virksomheter kan rett og slett ikke overse det faktum at
 ---
 
 ## Hva er DevOps?
-DevOps er en kombinasjon av to ord. Development og Operations. Utvikling og Drift. Det er en kulturgreie som understreker at utviklings- og driftsfunksjonene må samarbeide tett for å fjerne de tradisjonelle siloene hvor drift blir målt på stabilitet, og utvikling på endring. Gene Kim, en såkalt "thought leader" innen DevOps har definert "The Three Ways" som er et sett av prinsipper som underbygger DevOps:
+DevOps er en kombinasjon av to ord. Development og Operations. Utvikling og Drift. Det er en kulturgreie som understreker at utviklings- og driftsfunksjonene må samarbeide tett for å fjerne de tradisjonelle siloene hvor drift blir målt på stabilitet, og utvikling på endring. Gene Kim, en såkalt "thought leader" innen DevOps har definert ["The Three Ways"](http://itrevolution.com/the-three-ways-principles-underpinning-devops/) som er et sett av prinsipper som underbygger DevOps:
 
   * **Flyt**: Forbedre flyten i verdistrømmen fra venstre (krav og utvikling) til høyre (drift) ved å fjerne hindringer og begrensninger.
   * **Feedback**: Lag feedback loops som gjør at man effektivt og enkelt kan forbedre seg kontinuerlig.
