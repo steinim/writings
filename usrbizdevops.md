@@ -27,7 +27,7 @@ Brukerne er de vi lager produktene eller tjenestene for. De er opptatt av at pro
 
 Men det er ikke brukerne som skal tjene (eller spare) penger, eller effektivisere virksomhetens kontakt med brukerne. Det er det forretning eller fagsiden som skal. Og siden det bør være det viktigste å bruke tid på, så deltar de tett sammen med det tekniske teamet som skal lage produktene. Men hverken forretning eller teknologene skal finne ut av hva som skal lages. Det er det brukerne som skal. Og gjennom å lage det brukerne vil ha, så skal de sikre at gevinster realiseres og at det skapes verdi. Det er hele puslespillet. UsrBizDevOps.
 
-![UsrBizDevOps-team](https://raw.githubusercontent.com/steinim/writings/master/images/usrbizdevops-team.png)
+![UsrBizDevOps-team](https://github.com/steinim/writings/raw/master/images/usrbizdevops-team.png)
 
 ## Organisatoriske forutsetninger for DevOps
 Om man skal lykkes med DevOps må en del organisatoriske forutsetninger være på plass. Først og fremst en forretnings- eller fagside som er involvert fra dag til dag. Et team er ikke fullt ut autonomt og kryssfunksjonelt uten at det er et UsrBizDevOps-team. Slike team har full kontroll over alle aspekter ved produktet (eller verdien) som produseres. Alle forstår hensikten med innsatsen og hva man ønsker å oppnå. Autonomiteten tillater at teamene kan jobbe som små lettvektige start-ups. I en større organisasjon gir dette fordelene av at hele virksomheten blir mer smidig og endringsdyktig, samt at skalering og omprioritering blir mye enklere.
