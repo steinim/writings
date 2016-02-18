@@ -21,7 +21,7 @@ Det er ikke vanskelig å se at "The Three Ways" ligner mye på dyder vi kjenner 
 DevOps-team er autonome og kryssfunksjonelle team som har ansvaret for hele livssyklusen til programvare fra unnfangelse til bruk, inkludert ansvar for kvalitet, tilgjengelighet, ytelse, stabilitet, skalerbarhet, sikkerhet og monitorering. Teamet kan løse alle oppgaver som skal til uten ekstern innblanding eller behov for å henvende seg til utenforstående personer. Autonomiteten gjør at de kan bevege seg raskt og smidig og på den måten understøtte forretning- eller fagsiden sine ønsker om å lage et best mulig produkt for sine brukere på en optimal måte. Om man vil realisere gevinster kontinuerlig, få rask feedback på produkter, redusere økonomisk risiko, ha evne til å endre kurs og starte smått, så er denne organiseringen ideell. DevOps lar virksomheter produsere programvare og tjenester med høy kvalitet på en repeterbar måte.
 
 ## Et puslespill med tre biter
-DevOps er likevel kun en brikke i et puslespill med tre biter. DevOps-biten er middelet, ikke målet. Målet er å tilfredsstille brukernes behov og skape verdi for forretning eller fagsiden. DevOps bør derfor prefikses med Bruker (Usr) og Forretning (Biz) i den rekkefølgen. UsrBizDevOps.
+DevOps er likevel kun en brikke i et puslespill med tre biter. DevOps-biten er middelet, ikke målet. Målet er å tilfredsstille brukernes behov og skape verdi for forretning eller fagsiden. DevOps bør derfor prefikses med Bruker (Usr) og Forretning (Biz) i den rekkefølgen. **UsrBizDevOps**.
 
 ![UsrBizDevOps-team](https://github.com/steinim/writings/raw/master/images/usrbizdevops-team.png)
 
