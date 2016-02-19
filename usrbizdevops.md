@@ -17,7 +17,7 @@ DevOps er likevel kun en brikke i et puslespill med tre biter. DevOps-biten er m
 
 ![UsrBizDevOps-team](https://github.com/steinim/writings/raw/master/images/usrbizdevops-team.png)
 
-Brukerne er de vi lager produktene eller tjenestene for. De er opptatt av at produktene gir verdi for de. Derfor er det viktige å involvere brukerne tidlig og kontinuerlig gjennom hele prosessen. Ved å lansere hyppige eksperimenter, lære, og planlegge basert på denne læringen, blir man sikrere på at man lager riktig produkt. Uten DevOps er det så og si teknisk umulig å oppnå denne raske itereringen.
+Brukerne er de vi lager produktene eller tjenestene for. Derfor er det viktige å involvere brukerne tidlig og kontinuerlig gjennom hele prosessen. Ved å lansere hyppige eksperimenter, lære, og planlegge basert på denne læringen, blir man sikrere på at man lager riktig produkt. Uten DevOps er det så og si teknisk umulig å oppnå denne raske itereringen.
 
 Men det er ikke brukerne som skal tjene (eller spare) penger, eller effektivisere virksomhetens kontakt med brukerne. Det er det forretning eller fagsiden som skal. Og siden det bør være det viktigste å bruke tid på, så deltar de tett sammen med det tekniske teamet som skal lage produktene. Og gjennom å lage det brukerne vil ha, så skal de sikre at gevinster realiseres og at det skapes verdi. Det er hele puslespillet. *UsrBizDevOps*.
 
