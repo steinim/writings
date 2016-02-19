@@ -1,6 +1,8 @@
 # UsrBizDevOps
 
-Alle snakker om DevOps. Virksomheter kan rett og slett ikke overse det faktum at DevOps er en forutsetning for mer effektiv programvareutvikling. Det er riktig det, men DevOps alene er ikke hele svaret. Det er derfor viktig å snakke om hva DevOps er en forutsetning for, hvilke hindringer det fjerner, hvilke fordeler det gir og hvordan det påvirker organisasjonen. Vel så viktig er det også å snakke om hva som er forutsetninger for DevOps, for selv om DevOps ikke er et sett med teknologier eller prosesser, så er det vanskelig å implementere det uten å ta hensyn til disse aspektene.
+Alle snakker om DevOps. Virksomheter kan rett og slett ikke overse det faktum at DevOps er en forutsetning for mer effektiv programvareutvikling. Det er riktig det, men DevOps alene er ikke hele svaret. Det er derfor viktig å snakke om hva DevOps er en forutsetning for, hvilke hindringer det fjerner, hvilke fordeler det gir og hvordan det påvirker organisasjonen. Hvorfor er det viktig for forretnings- eller fagsiden? Hvordan påvirker det IT-avdelingen?
+
+Vel så viktig er det også å snakke om hva som er forutsetninger for DevOps, for selv om DevOps ikke er et sett med teknologier eller prosesser, så er det vanskelig å implementere det uten å ta hensyn til disse aspektene.
 
 ---
 
