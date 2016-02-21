@@ -1,4 +1,4 @@
-# UsrBizDevOps
+# Hva er vitsen med DevOps?
 
 Alle snakker om DevOps. Virksomheter kan rett og slett ikke overse det faktum at DevOps er en forutsetning for mer effektiv programvareutvikling. Det er riktig det, men DevOps alene er ikke hele svaret. Det er derfor viktig å snakke om hva DevOps er en forutsetning for, hvilke hindringer det fjerner, hvilke fordeler det gir og hvordan det påvirker organisasjonen. Hvorfor er det viktig for forretnings- eller fagsiden? Hvordan påvirker det IT-avdelingen?
 
@@ -12,7 +12,7 @@ DevOps er en kombinasjon av to ord. Development og Operations. Utvikling og Drif
 
 Kjerneverdier i DevOps ligner mye på dyder vi kjenner igjen fra [Smidig programvareutvikling](http://www.agilemanifesto.org/iso/no/), [Lean IT](https://en.wikipedia.org/wiki/Lean_IT), og produkt- og forretningsmetodikken [Lean Startup](http://theleanstartup.com/principles). Alle disse fokuserer på rask flyt av verdifulle produkter eller tjenester gjennom verdikjeden. I tillegg rask feedback på prosess og produkter, samt et sterkt fokus på eksperimentering og læring underveis. 
 
-## Et puslespill med tre biter
+## UsrBizDevOps
 DevOps er likevel kun en brikke i et puslespill med tre biter. DevOps-biten er middelet, ikke målet. Målet er å tilfredsstille brukernes behov og skape verdi for forretning eller fagsiden. DevOps bør derfor prefikses med Bruker (Usr) og Forretning (Biz) i den rekkefølgen. *UsrBizDevOps*.
 
 ![UsrBizDevOps-team](https://github.com/steinim/writings/raw/master/images/usrbizdevops-team.png)
