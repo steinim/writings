@@ -13,7 +13,7 @@ DevOps er en kombinasjon av to ord. Development og Operations. Utvikling og Drif
 Kjerneverdier i DevOps kjenner vi igjen fra [Smidig programvareutvikling](http://www.agilemanifesto.org/iso/no/), [Lean IT](https://en.wikipedia.org/wiki/Lean_IT), og produkt- og forretningsmetodikken [Lean Startup](http://theleanstartup.com/principles). Alle disse fokuserer på effektiv flyt av verdifulle produkter eller tjenester gjennom verdikjeden. I tillegg er rask feedback på prosess og produkter sentralt, samt at de vektlegger eksperimentering og læring underveis. DevOps har ikke oppstått i et vakuum. For å forstå verdien av DevOps må man se på koblingen mellom IT og forretningsmessige mål.
 
 ## UsrBizDevOps
-DevOps er et middel. Målet er å tilfredsstille brukernes behov og skape verdi for forretning. DevOps bør derfor prefikses med Bruker (Usr) og Forretning (Biz) i den rekkefølgen. *UsrBizDevOps*.
+DevOps er et middel og ikke et mål i seg selv. Målet er å tilfredsstille brukernes behov og skape verdi for forretning. DevOps bør derfor prefikses med Bruker (Usr) og Forretning (Biz) i den rekkefølgen. *UsrBizDevOps*.
 
 ![UsrBizDevOps-team](https://github.com/steinim/writings/raw/master/images/usrbizdevops-team.png)
 
