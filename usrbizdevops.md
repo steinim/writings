@@ -1,4 +1,4 @@
-# Brukere + Forretning + DevOps = UsrBizDevOps = Kontinuerlig realisering av forretningsverdi
+# UsrBizDevOps ➪ Kontinuerlig forretningsverdi
 
 Alle snakker om DevOps. Virksomheter kan rett og slett ikke overse det faktum at DevOps er en forutsetning for mer effektiv programvareutvikling. Det er riktig det, men DevOps alene er ikke hele svaret. Derfor er det viktig å forstå hva DevOps er en forutsetning for, hvilke hindringer det fjerner, hvilke fordeler det gir og hvordan det påvirker organisasjonen. Hvorfor er det viktig for forretningssiden? Hvordan påvirker det IT-avdelingen?
 
