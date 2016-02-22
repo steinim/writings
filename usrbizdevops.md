@@ -19,7 +19,7 @@ DevOps er et middel og ikke selve målet. Målet er å tilfredsstille brukernes 
 
 Brukerne er de vi lager produktene eller tjenestene for. Derfor er det viktige å involvere brukerne tidlig og kontinuerlig gjennom hele prosessen. Ved å lansere hyppige eksperimenter, lære, og planlegge basert på denne læringen, blir man sikrere på at man lager riktig produkt. Uten DevOps er det så og si teknisk umulig å oppnå denne raske itereringen.
 
-Men det er ikke brukerne som skal tjene eller spare penger. Det er forretningssidens ansvar. Og siden det bør være det viktigste å bruke tid på, så deltar de tett sammen med det tekniske teamet som skal lage produktene. Og gjennom å lage det brukerne vil ha, så skal de sikre at gevinster realiseres og at det skapes verdi. Det er hele puslespillet. *UsrBizDevOps*.
+Men det er ikke brukerne som skal tjene eller spare penger. Det er forretningssidens ansvar. Og siden det bør være det viktigste å bruke tid på, så deltar de tett sammen med det tekniske teamet som skal lage produktene. Og gjennom å lage det brukerne vil ha, så skal de sikre at gevinster realiseres og at det skapes verdi.
 
 ## Organisatoriske forutsetninger
 Om man skal ta ut det fulle potensialet DevOps gir må en del organisatoriske forutsetninger være på plass. Først og fremst en forretningsside som er involvert fra dag til dag. UsrBizDevOps-team har full kontroll over alle aspekter ved produktet (eller verdien) som produseres. Alle forstår hensikten med innsatsen og hva man ønsker å oppnå. I en større organisasjon gir dette at hele virksomheten blir mer smidig og endringsdyktig, samt at skalering og omprioritering blir mye enklere.
