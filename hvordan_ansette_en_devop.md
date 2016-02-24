@@ -57,4 +57,5 @@ Det kan kanskje virke som om dette er alt for mye å be om. Det tror jeg ikke om
 
 Og by the way. [BEKK ser etter mennesker med disse egenskapene](link til jobbannonse).
 
+---
 [Forsidebilde](https://www.flickr.com/photos/lovelornpoets/6034634225) av [Lovelorn Poets](http://www.lovelornpoets.com/) er lisensiert under CC BY 2.0 og modifisert av forfatteren av bloggposten.
