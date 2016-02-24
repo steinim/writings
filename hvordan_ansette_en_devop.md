@@ -21,29 +21,26 @@ Denne definisjonen forteller meg at det handler om å se etter folk som mestrer 
 De fleste endringene er knyttet til hvordan vi drifter systemene vi lager. Drift har blitt en disiplin som har adoptert mange av de samme teknikkene utviklere bruker. Eksempler er versjonskontroll, kontinuerlig integrasjon og automatisering av bygg, testing og utrulling. I tillegg kreves kompetanse om ting som monitorering utover ressursutnyttelse, nettverk, virtualisering og sannsynligvis nettsky. Det er nødvendig at "tradisjonelle" utviklere lærer seg mer om drift, men enda viktigere er det at det er personer på teamet som *virkelig* kan drift på den "nye måten". Det er denne typen mennesker jeg ser etter. Hva må de så kunne? Her er min liste.
 
 ## 1. Basis driftskompetanse
-Kompetanse om drift av servere er fremdeles viktig selv om engangsinfrastruktur (engelsk: immutable infrastructure), containere og skyinstanser blir normen. Sikkerhet, patching, ressurser, ... osv. 
-- Nettverkstopologi
-- DNS, VPN, SSH, ...
-- Lagring
-- Virtualisering og hypervisors (VMware, KVM, Xen, Hyper-V).
-- Databaser
+Kompetanse om basisdrift er fremdeles viktig selv om engangsinfrastruktur (engelsk: immutable infrastructure), containere og skyinfrastruktur blir normen. Fornuftig bruk av filsystemer, os, lagring, nettverk, brannvegger, backup, patching, databaser, virtualisering og feilsøking er nødvendig kompetanse å ha på et team som har ansvar for hele stacken.
 
-## 2. Skripting 
+## 2. Provisjoneringsrammeverk
+
+## 3. Skripting 
 - Automatisering
 - Utilities
 - Web-apier
 
-## 3. Provisjoneringsrammeverk
+## 4. Provisjoneringsrammeverk
 
-## 4. Programmering
+## 5. Programmering
 
-## 5. Nettsky
+## 6. Nettsky
 
-## 6. "Utvikler-skills"
+## 7. "Utvikler-skills"
 
-## 7. Smidige metoder
+## 8. Smidige metoder
 
-## 8. Soft-skills
+## 9. Soft-skills
 - Kontakt med brukere
 - Samarbeid i team med
   - Utviklere
@@ -52,7 +49,7 @@ Kompetanse om drift av servere er fremdeles viktig selv om engangsinfrastruktur 
 
 
 # Oppsummert
-Bla bla bla.
+Det kan kanskje virke som om dette er alt for mye å be om. Det tror jeg ikke om man sammenligner det med hva andre teknologer generelt kan. Om du ber en utvikler eller drifter om å sette seg ned og skrive om alt hun kan, så vil hun sitte lenge. Listen med hva man bør kunne er ikke en sammenslåing av alt utviklere kan og alt driftere kan. Det er en ny type teknolog som kan mye om det beste fra to verdener. Det er dessuten slik at at man jobber i kryssfunksjonelle team hvor det finnes flere spesialister som har spisskompetanse på ulike områder som utfyller hverandre. Teknologen jeg ser etter har disse.
 
 
 Og by the way. [BEKK ser etter mennesker med disse egenskapene](link til jobbannonse).
