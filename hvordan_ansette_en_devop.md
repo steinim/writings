@@ -42,6 +42,7 @@ Erfaring med offentlig nettsky er essensielt. Virtualisering av servere med VMwa
 Som nevnt over har moderne drift utvidet sin verktøykasse med verktøy og teknikker vi kjenner igjen fra utviklerverdenen. Automatisert testing, bygging, utrulling, konfigurasjon som kode og versjonskontroll er alle eksempler på dette. Man må kunne anvende disse også for infrastruktur.
 
 ## 8. Smidige metoder
+DevOps-filosofien er kraftig inspirert av [Smidig](http://www.agilemanifesto.org/iso/no/) og [Lean](https://en.wikipedia.org/wiki/Lean_IT). Evnen til å jobbe innenfor organisasjoner som har adoptert disse metodologiene må således være på plass.
 
 ## 9. Soft-skills
 - Kontakt med brukere
