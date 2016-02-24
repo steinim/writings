@@ -4,7 +4,7 @@ Puristene hevder det ikke går an å være en DevOp, DevOps-utvikler, DevOps-dri
 
 ---
 
-Carlos Bueno i Facebook skrev i 2010  artikkelen [full stack](https://www.facebook.com/note.php?note_id=461505383919) som beskriver hva en full-stack utvikler er. Han definerer det slik.
+Carlos Bueno i Facebook skrev i 2010 artikkelen [full stack](https://www.facebook.com/note.php?note_id=461505383919) en beskrivelse av hva en full-stack utvikler er. Han definerer det slik.
 
 > A "full-stack programmer" is a generalist, someone who can create a non-trivial application by themselves.
 > - Carlos Bueno
