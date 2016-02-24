@@ -39,7 +39,7 @@ Kompetanse om basisdrift er fremdeles viktig selv om engangsinfrastruktur (engel
 Erfaring med offentlig nettsky er essensielt. Virtualisering av servere med VMware eller lignende er ikke tilstrekkelig (selv om det er viktig å forstå hvordan virtualisering fungerer). Erfaring med privat nettsky er neppe nok heller. Josh Stella sin bloggpost [Minimum Viable Cloud](https://blog.fugue.co/2014-08-11-minimum_viable_cloud.html) beskriver forskjellene godt. Offentlig nettsky er i ferd med å bli industristandard og det blir dermed viktig å ha denne typen kompetanse.
 
 ## 7. "Utvikler-skills"
-Som nevnt over har moderne drift utvidet sin verktøykasse med verktøy og teknikker vi kjenner igjen fra utviklerverdenen. Automatisert testing , bygging, utrulling, konfigurasjon som kode og versjonskontroll er alle eksempler på dette. Man må kunne anvende disse også for infrastruktur.
+Som nevnt over har moderne drift utvidet sin verktøykasse med verktøy og teknikker vi kjenner igjen fra utviklerverdenen. Automatisert testing, bygging, utrulling, konfigurasjon som kode og versjonskontroll er alle eksempler på dette. Man må kunne anvende disse også for infrastruktur.
 
 ## 8. Smidige metoder
 
