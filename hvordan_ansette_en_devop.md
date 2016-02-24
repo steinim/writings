@@ -52,7 +52,7 @@ Som nevnt over har moderne drift utvidet sin verktøykasse med verktøy og tekni
 
 
 # Oppsummert
-Det kan kanskje virke som om dette er alt for mye å be om. Det tror jeg ikke om man sammenligner det med hva andre teknologer generelt kan. Om du ber en utvikler eller drifter om å sette seg ned og skrive om alt hun kan, så vil hun sitte lenge. Listen med hva man bør kunne er ikke en sammenslåing av alt utviklere kan og alt driftere kan. Vi snakker om en ny type teknolog som kan mye om det beste fra to verdener. Det er dessuten slik at at man jobber i kryssfunksjonelle team hvor det finnes flere spesialister som har spisskompetanse på ulike områder som utfyller hverandre. Teknologen jeg ser etter har disse.
+Det kan kanskje virke som om dette er alt for mye å be om. Det tror jeg ikke om man sammenligner det med hva andre teknologer generelt kan. Om du ber en utvikler eller drifter om å sette seg ned og skrive om alt hun kan, så vil hun sitte lenge. Listen med hva man bør kunne er ikke en sammenslåing av alt utviklere kan og alt driftere kan. Vi snakker om en ny type teknolog som kan mye om det beste fra to verdener. Det er dessuten slik at at man jobber i kryssfunksjonelle team hvor det finnes flere spesialister som har spisskompetanse på ulike områder som utfyller hverandre. Teknologen jeg ser etter har spisskompetansen jeg har beskrevet i denne bloggposten.
 
 
 Og by the way. [BEKK ser etter mennesker med disse egenskapene](link til jobbannonse).
