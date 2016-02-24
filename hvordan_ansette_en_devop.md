@@ -11,7 +11,7 @@ Carlos Bueno i Facebook skrev i 2010 artikkelen [full stack](https://www.faceboo
 
 Facebook skal vistnok ha ansatt *kun* denne typen utviklere i en periode. Hva en full-stack utvikler er har siden vært diskutert i et antall bloggposter og forum. De fleste hevder at dette er enhjørninger. Laurence Gellert har laget en [liste over hva en slik utvikler må kunne](http://www.laurencegellert.com/2012/08/what-is-a-full-stack-developer/), men den er neppe uttømmende om man skal ta hele stacken i betraktning. Generalister som har bred ekspertise i hele stacken og som enkelt kan sette seg inn i nye ting er definitivt verdifulle, men det er ikke denne typen utviklere jeg ser etter. Jeg har mye større tro på riktig sammensetning av mennesker som utfyller hverandre i kryssfunksjonelle team.
 
-En av mine favorittdefinisjoner av DevOps kommer fra Jez Humble via en [bloggpost](http://theagileadmin.com/what-is-devops/) skrevet av en gruppe mennesker under pseudonymet [The Agile Admin](http://theagileadmin.com/about/).
+En av god defnisjon av DevOps kommer fra Jez Humble via en [bloggpost](http://theagileadmin.com/what-is-devops/) skrevet av en gruppe mennesker under pseudonymet [The Agile Admin](http://theagileadmin.com/about/).
 
 > a cross-disciplinary community of practice dedicated to the study of building, evolving and operating rapidly-changing resilient systems at scale
 > - Jez Humble
