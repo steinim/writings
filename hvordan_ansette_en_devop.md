@@ -23,11 +23,11 @@ De fleste endringene er knyttet til hvordan vi drifter systemene vi lager. Drift
 ## 1. Basis driftskompetanse
 Kompetanse om basisdrift er fremdeles viktig selv om engangsinfrastruktur (engelsk: immutable infrastructure), containere og skyinfrastruktur blir normen. Fornuftig bruk av filsystemer, os, lagring, nettverk, brannvegger, backup, patching, databaser, virtualisering og feilsøking er nødvendig kompetanse å ha på et team som har ansvar for hele stacken.
 
-## 2. "Utvikler-skills"
+## 2. Utvikler-skills
 Som nevnt over har moderne drift utvidet sin verktøykasse med verktøy og teknikker vi kjenner igjen fra utviklerverdenen. Automatisert testing, bygging, utrulling, konfigurasjon som kode og versjonskontroll er alle eksempler på dette. Man må kunne anvende disse også for infrastruktur.
 
-## 3. Provisjoneringsrammeverk
-Oppsett av infrastruktur skal være automatisert. Provisjoneringsrammeverk lar deg utvikle og versjonere infrastrukturen din som kode, og det er viktig å beherske dette. Det er mange provisjoneringsrammeverk å [velge mellom](https://open.bekk.no/choosing-a-provisioning-framework).
+## 3. Provisjonering
+Oppsett av infrastruktur skal være automatisert. Til det benytter man et provisjoneringsrammeverk som lar deg utvikle og versjonere infrastrukturen din som kode. Det er viktig å beherske dette og det er mange provisjoneringsrammeverk å [velge mellom](https://open.bekk.no/choosing-a-provisioning-framework).
 
 ## 4. Skripting 
 - Automatisering
