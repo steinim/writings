@@ -53,3 +53,5 @@ Bla bla bla.
 
 
 Og by the way. [BEKK ser etter mennesker med disse egenskapene](link til jobbannonse).
+
+[Forsidebilde](https://www.flickr.com/photos/lovelornpoets/6034634225) av Lovelorn Poets er lisensiert under CC BY 2.0 og modifisert av forfatteren av bloggposten.
