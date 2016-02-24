@@ -26,6 +26,7 @@ Kompetanse om drift av servere er fremdeles viktig selv om engangsinfrastruktur 
 - DNS, VPN, SSH, ...
 - Lagring
 - Virtualisering og hypervisors (VMware, KVM, Xen, Hyper-V).
+- Databaser
 
 # 2. Skripting 
 - Automatisering
