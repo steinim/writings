@@ -31,26 +31,19 @@ Kompetanse om basisdrift er fremdeles viktig selv om engangsinfrastruktur (engel
 - Utilities
 - Web-apier
 
-## 4. Provisjoneringsrammeverk
+## 4. Programmering
 
-## 5. Programmering
-
-## 6. Offentlig Nettsky
+## 5. Offentlig Nettsky
 Erfaring med offentlig nettsky er essensielt. Virtualisering av servere med VMware eller lignende er ikke tilstrekkelig (selv om det er viktig å forstå hvordan virtualisering fungerer). Erfaring med privat nettsky er neppe nok heller. Josh Stella sin bloggpost [Minimum Viable Cloud](https://blog.fugue.co/2014-08-11-minimum_viable_cloud.html) beskriver forskjellene godt. Offentlig nettsky er i ferd med å bli industristandard og det blir dermed viktig å ha denne typen kompetanse.
 
-## 7. "Utvikler-skills"
+## 6. "Utvikler-skills"
 Som nevnt over har moderne drift utvidet sin verktøykasse med verktøy og teknikker vi kjenner igjen fra utviklerverdenen. Automatisert testing, bygging, utrulling, konfigurasjon som kode og versjonskontroll er alle eksempler på dette. Man må kunne anvende disse også for infrastruktur.
 
-## 8. Smidige metoder
+## 7. Smidige metoder
 DevOps-filosofien er kraftig inspirert av [Smidig](http://www.agilemanifesto.org/iso/no/) og [Lean](https://en.wikipedia.org/wiki/Lean_IT). Evnen til å jobbe innenfor organisasjoner som har adoptert disse metodologiene må således være på plass.
 
-## 9. Soft-skills
-- Kontakt med brukere
-- Samarbeid i team med
-  - Utviklere
-  - UX-folk
-  - Forretningsfolk
-
+## 8. Soft-skills
+Jobber man Smidig er samarbeid med personer med andre roller veldig viktig. Tett kontakt med reelle brukere likeså. Samarbeid med forretningsfolk, UX-eksperter, selgere, markedsfolk, andre utviklere og mange fler krever at man må kunne kommunisere godt og samarbeide med disse på daglig basis.
 
 # Oppsummert
 Det kan kanskje virke som om dette er alt for mye å be om. Det tror jeg ikke om man sammenligner det med hva andre teknologer generelt kan. Om du ber en utvikler eller drifter om å sette seg ned og skrive om alt hun kan, så vil hun sitte lenge. Listen med hva man bør kunne er ikke en sammenslåing av alt utviklere kan og alt driftere kan. Vi snakker om en ny type teknolog som kan mye om det beste fra to verdener. Det er dessuten slik at at man jobber i kryssfunksjonelle team hvor det finnes flere spesialister som har spisskompetanse på ulike områder som utfyller hverandre. Teknologen jeg ser etter har spisskompetansen jeg har beskrevet i denne bloggposten.
