@@ -31,8 +31,8 @@ Som nevnt over har moderne drift utvidet sin verktøykasse med verktøy og tekni
 ## 3. Infrastruktur som kode
 Oppsett av infrastruktur fra hardware og opp skal være automatisert, definert i programkode og versjonskontrollert. Det er mange provisjoneringsrammeverk å [velge mellom](https://open.bekk.no/choosing-a-provisioning-framework).
 
-## 4. Skripting/Programmering 
-Man må kunne skrive kode for å automatisere gjentakende oppgaver. Det holder ikke med skript som kjører lokalt på servere eller over ssh. Man må også kunne kode mot RESTful APIer. GUI-konfigurasjon er ut.
+## 4. Skripting
+Man må kunne skrive kode for å automatisere repeterende oppgaver. Man må også kunne kode mot RESTful APIer. GUI-konfigurasjon er ut.
 
 ## 5. Offentlig Nettsky
 Erfaring med offentlig nettsky er essensielt. Virtualisering av servere med VMware eller lignende er ikke tilstrekkelig (selv om det er viktig å forstå hvordan virtualisering fungerer). Erfaring med privat nettsky er heller ikke nok. Josh Stella sin bloggpost [Minimum Viable Cloud](https://blog.fugue.co/2014-08-11-minimum_viable_cloud.html) beskriver forskjellene godt. Offentlig nettsky er [i ferd med å bli industristandard](http://open.bekk.no/hvem-kan-konkurrere-med-amazon-web-services) og det blir dermed viktig å ha denne typen kompetanse.
