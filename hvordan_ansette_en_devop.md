@@ -1,3 +1,5 @@
+![DevOps Mindset](https://github.com/steinim/writings/raw/master/images/devops_mindset.png)
+
 # Hvordan ansette en DevOp?
 
 Puristene hevder det ikke går an å være en DevOp, DevOps-utvikler, DevOps-drifter, DevOps-teknolog, DevOps-ingeniør eller lignende. [DevOps er ikke en jobb, det er en filosofi](http://www.midvision.com/resources-blog/bid/336536/There-s-no-such-thing-as-a-DevOps-Engineer). Vel og bra, men i og med at [jeg tror på denne filosofien](http://open.bekk.no/usrbizdevops) så ønsker jeg også å jobbe med mennesker som i likhet med meg ønsker å leve etter denne filosofien. Hvilke egenskaper skal jeg se etter?
