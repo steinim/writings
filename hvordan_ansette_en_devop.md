@@ -7,14 +7,12 @@ Puristene hevder det ikke går an å være en DevOp, DevOps-utvikler, DevOps-dri
 Carlos Bueno i Facebook beskriver i artikkelen [full stack](https://www.facebook.com/note.php?note_id=461505383919) hva en full-stack utvikler er. Han definerer det slik.
 
 > A "full-stack programmer" is a generalist, someone who can create a non-trivial application by themselves.
-> - Carlos Bueno
 
 Facebook skal vistnok ha ansatt *kun* denne typen utviklere i en periode. Hva en full-stack utvikler er har siden vært diskutert i et antall bloggposter og forum. De fleste hevder at dette er enhjørninger. Laurence Gellert har laget en [liste over hva en slik utvikler må kunne](http://www.laurencegellert.com/2012/08/what-is-a-full-stack-developer/), men den er neppe uttømmende om man skal ta hele stacken i betraktning. Generalister som har bred ekspertise i hele stacken og som enkelt kan sette seg inn i nye ting er definitivt verdifulle, men det er ikke denne typen teknologer jeg ser etter. Jeg har mye større tro på riktig sammensetning av mennesker som utfyller hverandre i kryssfunksjonelle team.
 
 En av god defnisjon av DevOps kommer fra Jez Humble via en [bloggpost](http://theagileadmin.com/what-is-devops/) skrevet av en gruppe mennesker under pseudonymet [The Agile Admin](http://theagileadmin.com/about/).
 
 > a cross-disciplinary community of practice dedicated to the study of building, evolving and operating rapidly-changing resilient systems at scale
-> - Jez Humble
 
 Denne definisjonen forteller meg at det handler om å se etter folk som mestrer praksiser som bidrar til å kunne bygge, viderutvikle og drifte fleksible systemer i stor skala fort. Den forteller meg også at det er en kryssfunksjonell disiplin. Vi ser ikke etter *en* type mennesker, men heller folk med ulike egenskaper som utfyller hverandre. Ser jeg da etter "tradisjonelle" driftere og utviklere som samarbeider om å lage systemene? Jeg tror ikke det. De kan gjerne ha jobbet som det, men kompetansen som kreves for å jobbe etter DevOps-filosofien har endret seg betydelig. I kjølvannet av DevOps-bevegelsen har det oppstått en rekke nye praksiser og verktøy som endrer måten vi bygger, viderutvikler og drifter fleksible systemer i stor skala.
 
