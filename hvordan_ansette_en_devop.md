@@ -4,7 +4,7 @@ Puristene hevder det ikke går an å være en DevOp, DevOps-utvikler, DevOps-dri
 
 ---
 
-Carlos Bueno i Facebook skrev i 2010 artikkelen [full stack](https://www.facebook.com/note.php?note_id=461505383919) en beskrivelse av hva en full-stack utvikler er. Han definerer det slik.
+Carlos Bueno i Facebook beskriver i artikkelen [full stack](https://www.facebook.com/note.php?note_id=461505383919) hva en full-stack utvikler er. Han definerer det slik.
 
 > A "full-stack programmer" is a generalist, someone who can create a non-trivial application by themselves.
 > - Carlos Bueno
@@ -24,25 +24,21 @@ De fleste endringene er knyttet til hvordan vi drifter systemene vi lager. Drift
 Kompetanse om basisdrift er fremdeles viktig selv om engangsinfrastruktur (engelsk: immutable infrastructure), containere og skyinfrastruktur blir normen. Fornuftig bruk av filsystemer, os, lagring, nettverk, brannvegger, backup, patching, databaser, virtualisering og feilsøking er nødvendig kompetanse å ha på et team som har ansvar for hele stacken.
 
 ## 2. Utvikler-skills
-Som nevnt over har moderne drift utvidet sin verktøykasse med verktøy og teknikker vi kjenner igjen fra utviklerverdenen. Automatisert testing, bygging, utrulling, konfigurasjon som kode og versjonskontroll er alle eksempler på dette. Man må kunne anvende disse også for infrastruktur.
+Som nevnt over har moderne drift utvidet sin verktøykasse med verktøy og teknikker vi kjenner igjen fra utviklerverdenen. Automatisert testing, kontinuerlig integrasjon, bygging, utrulling, konfigurasjon og dokumentasjon som kode og versjonskontroll er alle eksempler på dette. Man må kunne anvende disse også for infrastruktur.
 
-## 3. Provisjonering
-Oppsett av infrastruktur skal være automatisert. Til det benytter man et provisjoneringsrammeverk som lar deg utvikle og versjonere infrastrukturen din som kode. Det er viktig å beherske dette og det er mange provisjoneringsrammeverk å [velge mellom](https://open.bekk.no/choosing-a-provisioning-framework).
+## 3. Infrastruktur som kode
+Oppsett av infrastruktur fra hardware og opp skal være automatisert, definert i programkode og versjonskontrollert. Det er mange provisjoneringsrammeverk å [velge mellom](https://open.bekk.no/choosing-a-provisioning-framework).
 
-## 4. Skripting 
-- Automatisering
-- Utilities
-- Web-apier
+## 4. Skripting/Programmering 
+Man må kunne skrive kode for å automatisere gjentakende oppgaver. Det holder ikke med skript som kjører lokalt på servere eller over ssh. Man må også kunne kode mot RESTful APIer. GUI-konfigurasjon er ut.
 
-## 5. Programmering
+## 5. Offentlig Nettsky
+Erfaring med offentlig nettsky er essensielt. Virtualisering av servere med VMware eller lignende er ikke tilstrekkelig (selv om det er viktig å forstå hvordan virtualisering fungerer). Erfaring med privat nettsky er heller ikke nok. Josh Stella sin bloggpost [Minimum Viable Cloud](https://blog.fugue.co/2014-08-11-minimum_viable_cloud.html) beskriver forskjellene godt. Offentlig nettsky er [i ferd med å bli industristandard](http://open.bekk.no/hvem-kan-konkurrere-med-amazon-web-services) og det blir dermed viktig å ha denne typen kompetanse.
 
-## 6. Offentlig Nettsky
-Erfaring med offentlig nettsky er essensielt. Virtualisering av servere med VMware eller lignende er ikke tilstrekkelig (selv om det er viktig å forstå hvordan virtualisering fungerer). Erfaring med privat nettsky er neppe nok heller. Josh Stella sin bloggpost [Minimum Viable Cloud](https://blog.fugue.co/2014-08-11-minimum_viable_cloud.html) beskriver forskjellene godt. Offentlig nettsky er i ferd med å bli industristandard og det blir dermed viktig å ha denne typen kompetanse.
-
-## 7. Smidige metoder
+## 6. Smidige metoder
 DevOps-filosofien er kraftig inspirert av [Smidig](http://www.agilemanifesto.org/iso/no/) og [Lean](https://en.wikipedia.org/wiki/Lean_IT). Evnen til å jobbe innenfor organisasjoner som har adoptert disse metodologiene må således være på plass.
 
-## 8. Soft-skills
+## 7. Soft-skills
 Jobber man Smidig er samarbeid med personer med andre roller veldig viktig. Tett kontakt med reelle brukere likeså. Samarbeid med forretningsfolk, UX-eksperter, selgere, markedsfolk, andre utviklere og mange fler krever at man må kunne kommunisere godt og samarbeide med disse på daglig basis.
 
 # Oppsummert
