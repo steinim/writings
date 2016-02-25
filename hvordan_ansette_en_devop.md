@@ -31,7 +31,7 @@ Som nevnt over har moderne drift utvidet sin verktøykasse med verktøy og tekni
 ## 3. Infrastruktur som kode
 Oppsett av infrastruktur fra hardware og opp skal være automatisert, definert i programkode og versjonskontrollert. Det er mange provisjoneringsrammeverk å [velge mellom](https://open.bekk.no/choosing-a-provisioning-framework).
 
-## 4. Skripting
+## 4. Koding
 Man må kunne skrive kode for å automatisere repeterende oppgaver. Man må også kunne kode mot RESTful APIer. GUI-konfigurasjon er ut.
 
 ## 5. Offentlig Nettsky
