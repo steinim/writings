@@ -32,22 +32,22 @@ Som nevnt over har moderne drift utvidet sin verktøykasse med verktøy og tekni
 Oppsett av infrastruktur fra hardware og opp skal være automatisert, definert i programkode og versjonskontrollert. Det er mange provisjoneringsrammeverk å [velge mellom](https://open.bekk.no/choosing-a-provisioning-framework).
 
 ## 4. Koding
-Man må kunne skrive kode for å automatisere repeterende oppgaver. Man må også kunne kode mot RESTful APIer. GUI-konfigurasjon er ut.
+Man må kunne skrive kode for å automatisere repeterende oppgaver. Man må også kunne kode mot RESTful APIer — konfigurasjon gjennom trykking i GUI er ut!
 
 ## 5. Offentlig Nettsky
-Erfaring med offentlig nettsky er essensielt. Virtualisering av servere med VMware eller lignende er ikke tilstrekkelig (selv om det er viktig å forstå hvordan virtualisering fungerer). Erfaring med privat nettsky er heller ikke nok. Josh Stella sin bloggpost [Minimum Viable Cloud](https://blog.fugue.co/2014-08-11-minimum_viable_cloud.html) beskriver forskjellene godt. Offentlig nettsky er [i ferd med å bli industristandard](http://open.bekk.no/hvem-kan-konkurrere-med-amazon-web-services) og det blir dermed viktig å ha denne typen kompetanse.
+Erfaring med offentlig nettsky er essensielt. Virtualisering av servere med VMware eller lignende er ikke tilstrekkelig (selv om det er viktig å forstå hvordan virtualisering fungerer). Erfaring med privat nettsky er heller ikke nok. Josh Stella sin bloggpost [Minimum Viable Cloud](https://blog.fugue.co/2014-08-11-minimum_viable_cloud.html) beskriver forskjellene godt. Offentlig nettsky [er i ferd med å bli industristandard](http://open.bekk.no/hvem-kan-konkurrere-med-amazon-web-services) og det blir dermed viktig å ha denne typen kompetanse.
 
 ## 6. Smidige metoder
-DevOps-filosofien er kraftig inspirert av [Smidig](http://www.agilemanifesto.org/iso/no/) og [Lean](https://en.wikipedia.org/wiki/Lean_IT). Evnen til å jobbe innenfor organisasjoner som har adoptert disse metodologiene må således være på plass.
+DevOps-filosofien er kraftig inspirert av [Smidig](http://www.agilemanifesto.org/iso/no/) og [Lean](https://en.wikipedia.org/wiki/Lean_IT). Evnen til å jobbe innenfor organisasjoner som har adoptert disse metodikkene må således være på plass.
 
 ## 7. Soft-skills
-Jobber man Smidig er samarbeid med personer med andre roller veldig viktig. Tett kontakt med reelle brukere likeså. Samarbeid med forretningsfolk, UX-eksperter, selgere, markedsfolk, andre utviklere og mange fler krever at man må kunne kommunisere godt og samarbeide med disse på daglig basis.
+Jobber man Smidig er samarbeid med personer med andre roller veldig viktig. Tett kontakt med reelle brukere likeså. Samarbeid med forretningsfolk, UX-eksperter, selgere, markedsfolk, andre utviklere og mange flere krever at man må kunne kommunisere godt og samarbeide med disse på daglig basis.
 
 # Oppsummert
-Det kan kanskje virke som om dette er alt for mye å be om. Det tror jeg ikke om man sammenligner det med hva andre teknologer generelt kan. Om du ber en utvikler eller drifter om å sette seg ned og skrive om alt hun kan, så vil hun sitte lenge. Listen med hva man bør kunne er ikke en sammenslåing av alt utviklere kan og alt driftere kan. Vi snakker om en ny type teknolog som kan mye om det beste fra to verdener. Det er dessuten slik at at man jobber i kryssfunksjonelle team hvor det finnes flere spesialister som har spisskompetanse på ulike områder som utfyller hverandre. Teknologen jeg ser etter har spisskompetansen jeg har beskrevet i denne bloggposten.
+Det kan kanskje virke som om dette er alt for mye å be om. Det tror jeg ikke om man sammenligner det med hva andre teknologer generelt kan. Om du ber en utvikler eller drifter om å sette seg ned og skrive om alt hun kan, så vil hun sitte lenge. Listen med hva en DevOp bør kunne er ikke en sammenslåing av alt utviklere kan og alt driftere kan. Vi snakker om en ny type teknolog som kan mye om det beste fra to verdener. Det er dessuten slik at at man jobber i kryssfunksjonelle team hvor det finnes flere spesialister som har spisskompetanse på ulike områder som utfyller hverandre. Teknologen jeg ser etter har spisskompetansen jeg har beskrevet i denne bloggposten.
 
 
-Og by the way. [BEKK ser etter mennesker med disse egenskapene](link til jobbannonse).
+Og, forresten, [BEKK ser etter mennesker med disse egenskapene](link til jobbannonse).
 
 ---
 [Forsidebilde](https://www.flickr.com/photos/lovelornpoets/6034634225) av [Lovelorn Poets](http://www.lovelornpoets.com/) er lisensiert under CC BY 2.0 og modifisert av forfatteren av bloggposten.
