@@ -1,6 +1,6 @@
 ![DevOps Mindset](https://github.com/steinim/writings/raw/master/images/devops_mindset.png)
 
-# Hvordan ansette en DevOp?
+# Hvordan ansette Ops i DevOps?
 
 Puristene hevder det ikke går an å være en DevOp, DevOps-utvikler, DevOps-drifter, DevOps-teknolog, DevOps-ingeniør eller lignende. [DevOps er ikke en jobb, det er en filosofi](http://www.midvision.com/resources-blog/bid/336536/There-s-no-such-thing-as-a-DevOps-Engineer). Vel og bra, men i og med at [jeg tror på denne filosofien](http://open.bekk.no/usrbizdevops) så ønsker jeg også å jobbe med mennesker som i likhet med meg ønsker å leve etter denne filosofien. Hvilke egenskaper skal jeg se etter?
 
@@ -14,9 +14,9 @@ Facebook skal vistnok ha ansatt *kun* denne typen utviklere i en periode. Hva en
 
 En god defnisjon av DevOps kommer fra Jez Humble via en [bloggpost](http://theagileadmin.com/what-is-devops/) skrevet av en gruppe mennesker under pseudonymet The Agile Admin.
 
-> a cross-disciplinary community of practice dedicated to the study of building, evolving and operating rapidly-changing resilient systems at scale
+> [DevOps is] a cross-disciplinary community of practice dedicated to the study of building, evolving and operating rapidly-changing resilient systems at scale
 
-Denne definisjonen forteller meg at det handler om å se etter folk som mestrer praksiser som bidrar til å kunne bygge, viderutvikle og drifte fleksible systemer i stor skala fort. Den forteller meg også at det er en kryssfunksjonell disiplin. Vi ser ikke etter *en* type mennesker, men heller folk med ulike egenskaper som utfyller hverandre.
+Denne definisjonen forteller meg at det handler om å se etter folk som mestrer praksiser som bidrar til å kunne bygge, videreutvikle og drifte fleksible systemer i stor skala fort. Den forteller meg også at det er en kryssfunksjonell disiplin. Vi ser ikke etter *en* type mennesker, men heller folk med ulike egenskaper som utfyller hverandre.
 
 Ser jeg da etter "tradisjonelle" driftere og utviklere som samarbeider om å lage systemene? Jeg tror ikke det. De kan gjerne ha jobbet som det, men kompetansen som kreves for å jobbe etter DevOps-filosofien har endret seg betydelig. I kjølvannet av DevOps-bevegelsen har det oppstått en rekke nye praksiser og verktøy som endrer måten vi bygger, viderutvikler og drifter fleksible systemer i stor skala på.
 
@@ -32,7 +32,7 @@ Som nevnt over har moderne drift utvidet sin verktøykasse med verktøy og tekni
 Oppsett av infrastruktur fra hardware og opp skal være automatisert, definert i programkode og versjonskontrollert. Det er mange provisjoneringsrammeverk å [velge mellom](https://open.bekk.no/choosing-a-provisioning-framework).
 
 ## 4. Koding
-Man må kunne skrive kode for å automatisere repeterende oppgaver. Man må også kunne kode mot RESTful APIer — konfigurasjon gjennom trykking i GUI er ut! Ulike språk har forskjellige egenskaper som passer for forskjellige oppgaver. Du må kunne flere enn ett språk. Å forstå applikasjonskode kan være viktig. Erfaring med å ha laget egne applikasjoner er nyttig.
+Man må kunne skrive kode for å automatisere repeterende oppgaver. Man må også kunne kode mot RESTful APIer — konfigurasjon gjennom trykking i GUI er ut! Ulike språk har forskjellige egenskaper som passer for forskjellige oppgaver. Du må kunne flere enn ett språk. Å forstå applikasjonskode er viktig og du bør ha erfaring med å ha laget egne applikasjoner.
 
 ## 5. Offentlig Nettsky
 Erfaring med offentlig nettsky er essensielt. Virtualisering av servere med VMware eller lignende er ikke tilstrekkelig (selv om det er viktig å forstå hvordan virtualisering fungerer). Erfaring med privat nettsky er heller ikke nok. Josh Stella sin bloggpost [Minimum Viable Cloud](https://blog.fugue.co/2014-08-11-minimum_viable_cloud.html) beskriver forskjellene godt. Offentlig nettsky [er i ferd med å bli industristandard](http://open.bekk.no/hvem-kan-konkurrere-med-amazon-web-services) og det blir dermed viktig å ha denne typen kompetanse.
@@ -44,8 +44,7 @@ DevOps-filosofien er kraftig inspirert av [Smidig](http://www.agilemanifesto.org
 Jobber man Smidig er samarbeid med personer med andre roller veldig viktig. Tett kontakt med reelle brukere likeså. Samarbeid med forretningsfolk, UX-eksperter, selgere, markedsfolk, andre utviklere og mange flere krever at man må kunne kommunisere godt og samarbeide med disse på daglig basis.
 
 # Oppsummert
-Det kan kanskje virke som om dette er alt for mye å be om. Det tror jeg ikke om man sammenligner det med hva andre teknologer generelt kan. Om du ber en utvikler eller drifter om å sette seg ned og skrive om alt hun kan, så vil hun sitte lenge. Listen med hva en DevOp bør kunne er ikke en sammenslåing av alt utviklere kan og alt driftere kan. Vi snakker om en ny type teknolog som kan mye om det beste fra to verdener. Det er dessuten slik at at man jobber i kryssfunksjonelle team hvor det finnes flere spesialister som har spisskompetanse på ulike områder som utfyller hverandre. Teknologen jeg ser etter har spisskompetansen jeg har beskrevet i denne bloggposten.
-
+Det kan kanskje virke som om dette er alt for mye å be om. Det tror jeg ikke om man sammenligner det med hva andre teknologer generelt kan. Om du ber en utvikler eller drifter om å sette seg ned og skrive om alt hun kan, så vil hun sitte lenge. Listen er ikke en sammenslåing av alt utviklere kan og alt driftere kan. Vi snakker om en ny type teknolog som kan mye om det beste fra to verdener. Det er dessuten slik at at man jobber i kryssfunksjonelle team hvor det finnes flere spesialister som har spisskompetanse på ulike områder som utfyller hverandre. Teknologen jeg ser etter har spisskompetansen jeg har beskrevet i denne bloggposten.
 
 Og, forresten, [BEKK ser etter mennesker med disse egenskapene](link til jobbannonse).
 
