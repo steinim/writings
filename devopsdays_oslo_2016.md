@@ -7,7 +7,6 @@ For the first time, DevOpsDays is coming to Oslo! DevOpsDays is a self-organizin
 ---
 
 # Origins
-
 The very first DevOpsDays was launched in Ghent, Belgium in 2009. [Patrick Debois](http://www.jedi.be/), after having seen [John Allspaw](https://www.linkedin.com/in/jallspaw) and [Paul Hammond](http://www.paulhammond.org/) give the talk [10+ Deploys a Day: Dev and Ops Cooperation at Flickr](http://www.slideshare.net/jallspaw/10-deploys-per-day-dev-and-ops-cooperation-at-flickr) at the O’Reilly Velocity 09 conference via streamed video, decided he wanted to organize a conference about Agile for Systems Administration. He took the first three letters of development and operations, added the word "days", and called it [DevOpsDays](http://www.devopsdays.org/). The term DevOps is born, and the #DevOps Twitter hashtag has since been an enormous well of information and inspiration for developers and sysadmins alike. As of today there has been 76 DevOpsDays around the globe since the very first one in 2009. There are already 32 conferences under planning for 2016.
 
 > ... I wanted to do a conference for getting people together and 'Agile System Administration Conference' was just too long, so I just picked the word 'DevOpsDays' as Dev and Ops working together because Agile System Administration was also too narrow on focusing on sysadmins only.
@@ -16,7 +15,9 @@ The very first DevOpsDays was launched in Ghent, Belgium in 2009. [Patrick Deboi
 I have attended two DevOpsDays myself — [DevOpsDays Berlin](http://open.bekk.no/devopsdays-berlin-2015) and [DevOpsDays Roma](http://open.bekk.no/stemningsrapport-fra-devopsdays-roma-dag-1) — and they were both amazing events. I hope and believe that [DevOpsDays in Oslo](http://www.devopsdays.org/events/2016-oslo/) will be equally great.
 
 # DevOps in 2016
-Since the origins of DevOps a lot has happened. DevOps is seen as a paradigm shift that allow businesses to continuously push high-quality software to customers quickly and at large scale. Continuous Delivery requires that everyone — from developers to testers to UX, business and operations — collaborate throughout the whole process. The quality of what is produced increases with the frequency of deliveries. When development, operations and the business work together closely everyone is pulling in the same direction and they share common goals. The release schedule is in the hands of the business, not in the hands of IT.
+Since the origins of DevOps a lot has happened. DevOps is seen as a huge paradigm shift within IT, and within business in general. Continuous Delivery and DevOps has allowed businesses to continuously push high-quality software to customers quickly and at large scale. The quality of what is produced increases with the frequency of deliveries.
+
+That requires that everyone — from developers to security to UX, business and operations — collaborate throughout the whole process and gather feedback continuously. Organizations have discovered that when people work together closely, everyone is pulling in the same direction and they share common goals.
 
 The emergence of cloud has also had a tremendous effect. As applications get more distributed, virtualized and pushed into the cloud, the way we develop and operate our systems change. Many tools have emerged and the focus on automation, infrastructure as code, monitoring and measuring has become extremely important.
 
@@ -27,4 +28,4 @@ I am really looking forward to the [DevOpsDays conference in Oslo](http://www.de
 
 It is, as always with DevOpsDays, a community event. The organizers are all volunteers working for different companies in Norway, and the conference is totally non profit. In order for us to be able to host the conference we are totally dependent on sponsors. I therefore urge you to convince whoever you need to convince to [sponsor the event](http://www.devopsdays.org/events/2016-oslo/sponsor/). We also need a lot of interesting speakers, so go ahead and [submit a proposal](http://www.devopsdays.org/events/2016-oslo/propose/), and of course we want all of you to attend the conference. Register [here](http://www.devopsdays.org/events/2016-oslo/registration/).
 
-See you in Oslo this fall!
+**See you in Oslo this fall!**
