@@ -18,7 +18,7 @@ I have attended two DevOpsDays myself — [DevOpsDays Berlin](http://open.bekk.n
 # DevOps in 2016
 Since the origins of DevOps a lot has happened. DevOps is seen as a paradigm shift that allow businesses to continuously push high-quality software to customers quickly and at large scale. Continuous Delivery requires that everyone — from developers to testers to UX, business and operations — collaborate throughout the whole process. The quality of what is produced increases with the frequency of deliveries. When development, operations and the business work together closely everyone is pulling in the same direction and they share common goals. The release schedule is in the hands of the business, not in the hands of IT.
 
-The emergence of cloud has also had a tremendous effect. As applications get more distributed, virtualised and pushed into the cloud, the way we develop and operate our systems change. Many tools have emerged and the focus on automation, infrastructure as code, monitoring and measuring has become extremely important.
+The emergence of cloud has also had a tremendous effect. As applications get more distributed, virtualized and pushed into the cloud, the way we develop and operate our systems change. Many tools have emerged and the focus on automation, infrastructure as code, monitoring and measuring has become extremely important.
 
 Today we are witnessing perhaps the most disruptive and innovative period in IT in our time. Those not transforming their IT organizations towards DevOps and Continuous Delivery risk being left behind to die. The DevOpsDays conference is important!
 
