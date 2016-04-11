@@ -21,7 +21,9 @@ That requires that everyone — from developers to security to UX, business and 
 
 The emergence of cloud has also had a tremendous effect. As applications get more distributed, virtualized and pushed into the cloud, the way we develop and operate our systems change. Many tools have emerged and the focus on automation, infrastructure as code, monitoring and measuring has become extremely important.
 
-Today we are witnessing perhaps the most disruptive and innovative period in IT in our time. Those not transforming their IT organizations towards DevOps and Continuous Delivery risk being left behind to die. The DevOpsDays conference is important!
+Today we are witnessing perhaps the most disruptive and innovative period in IT in our time. Those not transforming their IT organizations towards DevOps and Continuous Delivery risk being left behind to die.
+
+This is why DevOpsDays is still important. Perhaps more important than ever.
 
 # DevOpsDays Oslo 2016
 I am really looking forward to the [DevOpsDays conference in Oslo](http://www.devopsdays.org/events/2016-oslo/) on September 5th and 6th 2016. At a high-level, each day will consist of a mix of presentations, ignite presentations, and open spaces. There will be an evening party for all participants scheduled for the evening of September 5th. A great opportunity for networking, mingling and having a good time.
