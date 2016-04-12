@@ -8,13 +8,13 @@ Jeg er tilhenger av Smidig, Kontinuerlige Leveranser og DevOps, og jeg har sterk
 
 En av årsakene til at planlegging oppfattes som eneste mulighet for orkestrering av aktiviteter og instanser er at det innenfor prosjektleder-faget ikke finnes et godt alternativ til omfattende planlegging, mange roller, mange aktiviteter, sjekkpunkter og milepæler. [Scaled Agile Framework&reg;](http://www.scaledagileframework.com/) ([SAFe&trade;]) eksemplifiserer feil tilnærming til skalering av Smidig. Det er vanskelig å se for seg at eksperimentering og kontinuerlig forbedring har gode levevilkår innenfor dette rammeverket.
 
-# Kommuniser mindre!
+## Kommuniser mindre!
 
 > Communication is a sign of dysfunction. It means people aren’t working together in a close, organic way. We should be trying to figure out a way for teams to communicate less with each other, not more.
 >
 > Jeff Bezos, CEO i Amazon [1]
 
-Smidige team sitter sammen og kommuniserer tett hver dag. De kommuniserer ikke like tett med andre team. Løsningen på denne utfordringen er ikke å bruke tid og krefter på å øke kommunikasjonen mellom teamene. Kommunikasjon på tvers av team ender fort opp med misforståelser, uenigheter, tidkrevende møter og omfattende dokumentasjon. Man bør derfor se etter løsninger hvor teamene er mindre avhengige av å måtte kommunisere med andre team. Teamene bør være mest mulig autonome. Autonome team er team som kan løse alle oppgaver som skal til for å videreutvikle tjenester uten ekstern innblanding eller behov for å henvende seg til utenforstående personer.
+Smidige team sitter sammen og kommuniserer tett hver dag. De kommuniserer ikke like tett med andre team. Løsningen på denne utfordringen er ikke å bruke tid og krefter på å øke kommunikasjonen mellom teamene. Kommunikasjon på tvers av team ender fort opp med misforståelser, uenigheter, tidkrevende møter og omfattende dokumentasjon. Man bør derfor se etter løsninger hvor teamene er mindre avhengige av å måtte kommunisere med andre team. Teamene bør være mest mulig autonome. Autonome team er team som kan løse alle oppgaver som skal til for å videreutvikle tjenester uten ekstern innblanding eller behov for å henvende seg til utenforstående personer. Dette gjør at tjenesteutvikling kan foregå raskest mulig.
 
 > Organizations which design systems ... are constrained to produce designs which are copies of the communication structures of these organizations
 >
@@ -24,8 +24,12 @@ Man må for all del unngå team organisert etter teknologi (web-team, backend-te
 
 ![Team kommuniserer over api-er](https://github.com/steinim/writings/raw/master/images/teams_api.png)
 
-# Du trenger fortsatt orkestrering!
-OK. Vi har nå tjenester som snakker sommen over API-er og hvert team eier hver sine tjenester. Dette løser vel ikke problemene med funksjonalitet som ikke er komplett før flere team er ferdige med sine endringer, avhengigheter til kjernesystemer, felles grunndata, kapasitet i linja eller venting på beslutninger? Jo det gjør faktisk det. 
+## Arkitektur for api-baserte organisasjoner
+Alternativt ("bryt ned i små tjenester")
+En viktig forutsetning for å lykkes med en api-basert organisasjon er at IT-arkitekturen brytes ned på en måte som gjør at det å legge til ny funksjonalitet kun påvirker *en* tjeneste. 
+
+
+OK. Vi har nå tjenester som snakker sammen over API-er og hvert team eier hver sine tjenester. Dette løser vel ikke problemene med funksjonalitet som ikke er komplett før flere team er ferdige med sine endringer, avhengigheter til kjernesystemer, felles grunndata, kapasitet i linja eller venting på beslutninger? Jo det gjør faktisk det. 
 
 
 # Omfattende planlegging er skadelig
