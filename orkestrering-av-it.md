@@ -29,6 +29,12 @@ Sitatet er hentet fra et mandat utstedt av Jeff Bezos, CEO i Amazon, i 2002. Man
 
 En viktig forutsetning for å lykkes med en api-basert organisasjon er at IT-arkitekturen brytes ned på en måte som gjør at det å legge til ny funksjonalitet kun påvirker *en* tjeneste. Data og funksjonalitet skal implementeres der hvor det hører best hjemme eller som en ny tjeneste dersom det ikke har et naturlig tilholdssted. Tjenesten plasseres under det forretningsområdet 
 
+> Microservices allow organizations to align the architecture of their systems to the structure of their teams.
+>
+> [Sam Newman, Demystifying Conway’s Law, 2015](https://www.thoughtworks.com/insights/blog/demystifying-conways-law)
+
+
+
 ## Bimodal IT?
 
 
