@@ -25,10 +25,9 @@ Man må for all del unngå team organisert etter teknologi (web-team, backend-te
 ![Team kommuniserer over api-er](https://github.com/steinim/writings/raw/master/images/teams_api.png)
 
 ##  Anyone who doesn’t do this will be fired.  Thank you; have a nice day!
-Sitatet er hentet fra et mandat utstedt av Jeff Bezos, CEO i Amazon, i 2002. Beslutningen om at alle team i Amazon skulle kommunisere over api-er dannet mye av grunnlaget for at Amazon gikk fra å være kun en bokhandel til å i tillegg bli den ledende tilbyderen av skyplattform i verden (AWS). Mandatet 
+Sitatet er hentet fra et mandat utstedt av Jeff Bezos, CEO i Amazon, i 2002. Mandatet påla at alle team måtte eksponere funksjonalitet og data gjennom API-er og at teamene kun har lov til å kommunisere med hverandre via API-ene. Ingen unntak. Beslutningen om at alle team i Amazon skulle kommunisere over API-er dannet mye av grunnlaget for at Amazon gikk fra å være kun en bokhandel til å i tillegg bli den ledende tilbyderen av skyplattform i verden (AWS). 
 
-
-En viktig forutsetning for å lykkes med en api-basert organisasjon er at IT-arkitekturen brytes ned på en måte som gjør at det å legge til ny funksjonalitet kun påvirker *en* tjeneste. 
+En viktig forutsetning for å lykkes med en api-basert organisasjon er at IT-arkitekturen brytes ned på en måte som gjør at det å legge til ny funksjonalitet kun påvirker *en* tjeneste. Data og funksjonalitet skal implementeres der hvor det hører best hjemme eller som en ny tjeneste dersom det ikke har et naturlig tilholdssted. Tjenesten plasseres under det forretningsområdet 
 
 ## Bimodal IT?
 
