@@ -4,9 +4,9 @@ Avhengigheter mellom leveranseteam, og avhengigheter til eksisterende IT-systeme
 
 ---
 
-Jeg er tilhenger av Smidig, Kontinuerlige Leveranser og DevOps, og jeg har sterke meninger om hvordan organisasjoner bør [rigge seg for mer effektive IT-leveranser](http://open.bekk.no/usrbizdevops). Jeg hevder sågar at man bør [slutte med IT-prosjekter](http://open.bekk.no/slutt-med-it-prosjekter). I flere sammenhenger har jeg blitt utfordret på at dette virker for enkelt og at det ikke passer for alle, særlig ikke for større organisasjoner. Skeptikerne hevder at IT-prosjekter krever mye koordinering mellom prosjektets team, linjeorganisasjonen, avdelinger eller andre instanser, og at det derfor uansett må brukes mye tid på omfattende planlegging og orkestrering. Hensikten er å ikke sinke utvikling og sikre at det er kapasitet nok til å håndtere de ulike aktivitetene og systemene. Denne tankegangen er, som de fleste vet, ikke feilfri. Forsinkelser og utfordringer vil oppstå uansett hvor mye man planlegger. Jeg har full forståelse for problemstillingen, men mener løsningen på problemet er feil.
+Jeg er tilhenger av Smidig, Kontinuerlige Leveranser og DevOps, og jeg har sterke meninger om hvordan organisasjoner bør [rigge seg for mer effektive IT-leveranser](http://open.bekk.no/usrbizdevops). Jeg hevder sågar at man bør [slutte med IT-prosjekter](http://open.bekk.no/slutt-med-it-prosjekter). I flere sammenhenger har jeg blitt utfordret på at dette virker for enkelt og at det ikke passer for alle, særlig ikke for større organisasjoner. Skeptikerne hevder at IT-prosjekter krever mye koordinering mellom prosjektets team, linjeorganisasjonen, avdelinger eller andre instanser, og at det derfor uansett må brukes mye tid på omfattende planlegging og orkestrering. Hensikten er å ikke sinke utvikling og sikre at det er kapasitet nok til å håndtere de ulike aktivitetene og systemene. Denne tankegangen er, som de fleste vet, ikke problemfri. Forsinkelser og utfordringer vil oppstå uansett hvor mye man planlegger. Jeg har full forståelse for problemstillingen, men mener løsningen på problemet som regel er feil.
 
-En av årsakene til at planlegging oppfattes som eneste mulighet for orkestrering av aktiviteter og instanser er at det innenfor prosjektleder-faget ikke finnes et godt alternativ til omfattende planlegging, mange roller, mange aktiviteter, sjekkpunkter og milepæler. [Scaled Agile Framework&reg;](http://www.scaledagileframework.com/) (SAFe&trade;) eksemplifiserer feil tilnærming til skalering av Smidig. Det er vanskelig å se for seg at eksperimentering og kontinuerlig forbedring har gode levevilkår innenfor dette rammeverket.
+En av årsakene til at planlegging oppfattes som eneste mulighet for orkestrering av aktiviteter og instanser er at det innenfor prosjektleder-faget ikke finnes et godt alternativ til omfattende planlegging, mange roller, mange aktiviteter, sjekkpunkter og milepæler. [Scaled Agile Framework&reg;](http://www.scaledagileframework.com/) (SAFe&trade;) er ett eksempel på feil tilnærming til skalering av Smidig. Det er vanskelig å se for seg at eksperimentering og kontinuerlig forbedring har gode levevilkår innenfor dette rammeverket.
 
 ## Kommuniser mindre!
 
@@ -16,29 +16,42 @@ En av årsakene til at planlegging oppfattes som eneste mulighet for orkestrerin
 
 Smidige team sitter sammen og kommuniserer tett hver dag. De kommuniserer ikke like tett med andre team. Løsningen på denne utfordringen er ikke å bruke tid og krefter på å øke kommunikasjonen mellom teamene. Kommunikasjon på tvers av team ender fort opp med misforståelser, uenigheter, tidkrevende møter og omfattende dokumentasjon. Man bør derfor se etter løsninger hvor teamene er mindre avhengige av å måtte kommunisere med andre team. Teamene bør være mest mulig autonome. Autonome team er team som kan løse alle oppgaver som skal til for å videreutvikle tjenester uten ekstern innblanding eller behov for å henvende seg til utenforstående personer. Dette gjør at tjenesteutvikling kan foregå raskest mulig.
 
+## Systemer = forretningsbehov
 > Organizations which design systems ... are constrained to produce designs which are copies of the communication structures of these organizations
 >
 > [M. Conway, How Do Committees Invent, 1968](http://www.melconway.com/research/committees.html)
 
-Man må for all del unngå team organisert etter teknologi (web-team, backend-team, integrasjons-team). Like viktig er det å unngå team organisert etter funksjon (utvikling, test, drift, sikkerhet, ux). Slike inndelinger kalles silo-organisasjon og kompliserer kommunikasjon enormt. Det er dessuten veldig lite effektivt fordi oppgaver må løses på tvers av flere enheter, noe som medfører overleveringer, venting og misforståelser. Teamene bør isteden organiseres rundt forretningsbehov. Forretningsbehovene implementeres som frittstående applikasjoner av team som besitter all kompetanse som skal til for å utvikle tjenestene de eier. Arkitekturen og teknologien i hver tjeneste trenger ikke å være lik som i de andre tjenestene. Andre team trenger i praksis ikke å vite hva som skjer internt i de andre tjenestene. De trenger kun å vite om API-endringene. Kommunikasjonen mellom teamene struktureres rundt kommunikasjon mellom tjenester via API-er.
-
-![Team kommuniserer over api-er](https://github.com/steinim/writings/raw/master/images/teams_api.png)
-
-##  Anyone who doesn’t do this will be fired.  Thank you; have a nice day!
-Sitatet er hentet fra et mandat utstedt av Jeff Bezos, CEO i Amazon, i 2002. Mandatet påla at alle team måtte eksponere funksjonalitet og data gjennom API-er og at teamene kun har lov til å kommunisere med hverandre via API-ene. Ingen unntak. Beslutningen om at alle team i Amazon skulle kommunisere over API-er dannet mye av grunnlaget for at Amazon gikk fra å være kun en bokhandel til å i tillegg bli den ledende tilbyderen av skyplattform i verden (AWS). 
-
-En viktig forutsetning for å lykkes med en api-basert organisasjon er at IT-arkitekturen brytes ned på en måte som gjør at det å legge til ny funksjonalitet kun påvirker *en* tjeneste. Data og funksjonalitet skal implementeres der hvor det hører best hjemme eller som en ny tjeneste dersom det ikke har et naturlig tilholdssted. Tjenesten plasseres under det forretningsområdet 
+Man må for all del unngå team organisert etter teknologi (web-team, backend-team, integrasjons-team). Like viktig er det å unngå team organisert etter funksjon (utvikling, test, drift, sikkerhet, ux). Slike inndelinger kalles silo-organisasjon og kompliserer kommunikasjon enormt. Det er dessuten veldig lite effektivt fordi oppgaver må løses på tvers av flere enheter, noe som medfører overleveringer, venting og misforståelser. Teamene bør isteden organiseres rundt forretningsbehov.
 
 > Microservices allow organizations to align the architecture of their systems to the structure of their teams.
 >
 > [Sam Newman, Demystifying Conway’s Law, 2015](https://www.thoughtworks.com/insights/blog/demystifying-conways-law)
 
+En viktig forutsetning for å lykkes med en api-basert organisasjon er at IT-arkitekturen brytes ned på en måte som gjør at det å legge til ny funksjonalitet kun påvirker *en* tjeneste. Data og funksjonalitet skal implementeres der hvor det hører best hjemme eller som en ny tjeneste dersom det ikke har et naturlig tilholdssted.
+
+Forretningsbehovene implementeres som frittstående applikasjoner av team som besitter all kompetanse som skal til for å utvikle tjenestene de eier. Arkitekturen og teknologien i hver tjeneste trenger ikke å være lik som i de andre tjenestene. Andre team trenger i praksis ikke å vite hva som skjer internt i de andre tjenestene. De trenger kun å vite om API-endringene. Kommunikasjonen mellom teamene struktureres rundt kommunikasjon mellom tjenester via API-er.
+
+![Team kommuniserer over api-er](https://github.com/steinim/writings/raw/master/images/teams_api.png)
+
+##  Anyone who doesn’t do this will be fired.  Thank you; have a nice day!
+Sitatet er hentet fra et [mandat](http://nfbnet.org/pipermail/nfbcs_nfbnet.org/2011-October/003472.html) utstedt av Jeff Bezos, CEO i Amazon, i 2002 i følge en tidligere ansatt. Mandatet påla at alle team må eksponere funksjonalitet og data gjennom API-er og at teamene kun har lov til å kommunisere med hverandre via API-ene. Ingen unntak. Beslutningen om at alle team i Amazon skulle kommunisere over API-er dannet mye av grunnlaget for at Amazon gikk fra å være kun en bokhandel til å i tillegg bli den ledende tilbyderen av skyplattform i verden (AWS).
+
+Det er viktig med streng disiplin og en forretningsside som deltar tett sammen med teamene som understøtter deres forretningsområde. Det er forretning som skal drive utviklingsarbeidet av sine produkter og tjenester, ikke IT. Utviklingsteamet skal legge til rette for at forretningssiden kan produsere verdi kontinuerlig gjennom en effektiv, smidig og fullautomatisert prosess for utvikling og utrulling av endringer. Med systemer som er adskilt fra hverandre og som kommuniserer over API-er er det ikke særlig vanskelig å legge til rette for en slik prosess. Men det krever disiplin!
+
+> There will be no other form of inter-process communication allowed: no direct linking, no direct reads of another team’s data store, no shared-memory model, no back-doors whatsoever. The only communication allowed is via service interface calls over the network.
+>
+> [Jeff Bezos, CEO Amazon, i følge en tidligere ansatt i Amazon](http://nfbnet.org/pipermail/nfbcs_nfbnet.org/2011-October/003472.html)
+
+## Gamle systemer trekker oss ned
+Vi kan grovt dele inn en virksomhets systemer i to. Grunndata og kundevendte. Grunndata er fellessystemer som ofte tjener som backend for kundevendte systemer. De inneholder ofte sensitive og verdifulle data for virksomheten og er preget av å være utviklet i en annen tid. De kan også inneholde virksomhetskritisk funksjonalitet, som for eksempel bokføring av banktransaksjoner. Kundevendte systemer bygges ofte på toppen av disse og benytter kritiske data og funksjoner fra grunndata-systemene for å tilby tjenester for sluttbrukere. Om flere kundevendte systemer leser og skriver til disse systemene, eller har behov for endringer, så oppstår integrasjoner som ikke foregår over API-er. Dette forhindrer hva vi ønsker å oppnå. Det er fort gjort å falle tilbake til orkestrering gjennom omfattende planlegging og orkestrering.
+
+Å skrive om alle disse grunndata-systemene til mikrotjenester uten avhengigheter og med perfekte veldefinerte API-er som kan releases kontinuerlig er neppe en farbar vei for å komme ut av dette uføret. Det vil jeg heller ikke foreslå å gjøre. For det første er det fryktelig vanskelig, for det andre er det enormt ressurskrevende, og for det tredje tar det fokus vekk fra å lage kundevendte systemer som brukerne og forretning ønsker seg.
+
+## Kvel meg sakte
 
 
-## Bimodal IT?
 
 
-OK. Vi har nå tjenester som snakker sammen over API-er og hvert team eier hver sine tjenester. Dette løser vel ikke problemene med funksjonalitet som ikke er komplett før flere team er ferdige med sine endringer, avhengigheter til kjernesystemer, felles grunndata, kapasitet i linja eller venting på beslutninger? Jo det gjør faktisk det.
 
 
 # Omfattende planlegging er skadelig
@@ -53,3 +66,6 @@ http://continuousdelivery.com/2016/04/the-flaw-at-the-heart-of-bimodal-it/
 Jeg blir ofte utfordret på at IT-prosjekter krever mye koordinering mellom prosjektets team, linjeorganisasjonen, avdelinger eller andre instanser. Avhengighetene mellom de ulike delene som utgjør IT-prosjekter må orkestreres, synkroniseres og legges inn i en fremdriftsplan slik at prosjektledere kan holde styr på fremdriften. Jeg har stor forståelse for at dette er vanskelig, men problemet kan unngås. Løsningen er ikke alltid så lett å forklare fordi den er teknisk. Ikke organisatorisk.
 
 Kjernen i utfordringene med orkestrering av IT-utvikling i store organisasjoner er å sørge for koordinering av aktiviteter som spenner over flere instanser. Det kan være funksjonalitet som ikke er komplett før flere team er ferdige med sine endringer, avhengigheter til kjernesystemer, felles grunndata, kapasitet i linja eller venting på beslutninger. Mer effektiv kommunikasjon er løsningen, men ikke i tradisjonell forstand med møter, bestillinger og endringsanmodninger. Kommunikasjonslinjene må struktureres rundt en fornuftig IT-arkitektur og implementeres som kode.
+
+
+OK. Vi har nå tjenester som snakker sammen over API-er og hvert team eier hver sine tjenester. Dette løser vel ikke problemene med funksjonalitet som ikke er komplett før flere team er ferdige med sine endringer, avhengigheter til kjernesystemer, felles grunndata, kapasitet i linja eller venting på beslutninger? Jo det gjør faktisk det.
