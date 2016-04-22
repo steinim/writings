@@ -48,9 +48,9 @@ Vi kan grovt dele inn en virksomhets systemer i to. Grunndata og kundevendte. Gr
 Å skrive om alle disse grunndata-systemene til mikrotjenester uten avhengigheter og med perfekte veldefinerte API-er som kan releases kontinuerlig er neppe en farbar vei for å komme ut av dette uføret. Det vil jeg heller ikke foreslå å gjøre. For det første er det fryktelig vanskelig, for det andre er det enormt ressurskrevende, og for det tredje tar det fokus vekk fra å lage kundevendte systemer som brukerne og forretning ønsker seg.
 
 ## Kvel meg sakte
+Det vi forsøker å oppnå er færrest mulig endringer i baksystemene og løsere koblinger mellom kundevendte systemer og baksystemene. Ved utvikling av nye tjenester bør man derfor forsøke å gjøre seg så uavhengig som mulig av funksjoner som er implementert i baksystemene. Den nye tjenesten som skal utvikles har egne krav til funksjonalitet som kanskje ligner, men som ikke er helt det samme som er implementert i baksystemet. Gjenbruk er fristende, men bør unngås for enhver pris. På kort sikt medfører dette at man ikke ødelegger for andre tjenester fordi man slipper å gjøre endringer i baksystemet som benyttes av flere. Om man i tillegg kan få andre tjenester til å bruke den nye tjenesten over et API har man virkelig tatt et stort steg i riktig retning. På lengre sikt vil kanskje ingen ha bruk for funksjonaliteten i baksystemet lenger og man kan skru denne av. Ved streng disiplin vil man således sakte kvele det gamle systemet.
 
-
-
+Delte data er også en stor utfordring og bør håndteres på en lignende måte. Ved utvikling av nye tjenester fokusert rundt forretningsbehov bør man være kritisk til hvilke data tjenesten har behov for å lese, og hvilke den har behov for å manipulere. Data som skal manipuleres bør eies av en og bare en tjeneste og tilgjengeliggjøres som funksjoner i et API. (BØR DE DET? MÅ IKKE ALLE SYSTEMENE SOM BRUKER DEN SKRIVES OM?)
 
 
 
