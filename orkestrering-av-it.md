@@ -12,7 +12,7 @@ En av årsakene til at planlegging oppfattes som eneste mulighet for orkestrerin
 
 > Communication is a sign of dysfunction. It means people aren’t working together in a close, organic way. We should be trying to figure out a way for teams to communicate less with each other, not more.
 >
-> Jeff Bezos, CEO i Amazon [1]
+> [Jeff Bezos, CEO i Amazon](http://www.amazon.com/The-Everything-Store-Bezos-Amazon/dp/0316219266)
 
 Smidige team sitter sammen og kommuniserer tett hver dag. De kommuniserer ikke like tett med andre team. Løsningen på denne utfordringen er ikke å bruke tid og krefter på å øke kommunikasjonen mellom teamene. Kommunikasjon på tvers av team ender fort opp med misforståelser, uenigheter, tidkrevende møter og omfattende dokumentasjon. Man bør derfor se etter løsninger hvor teamene er mindre avhengige av å måtte kommunisere med andre team. Teamene bør være mest mulig autonome. Autonome team er team som kan løse alle oppgaver som skal til for å videreutvikle tjenester uten ekstern innblanding eller behov for å henvende seg til utenforstående personer. Dette gjør at tjenesteutvikling kan foregå raskest mulig.
 
