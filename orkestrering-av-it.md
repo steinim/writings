@@ -44,10 +44,16 @@ Det er viktig med streng disiplin og en forretningsside som deltar tett sammen m
 >
 > [Jeff Bezos, CEO Amazon, i følge en tidligere ansatt i Amazon](http://nfbnet.org/pipermail/nfbcs_nfbnet.org/2011-October/003472.html)
 
-## Gamle systemer trekker oss ned
+## DevOps for stormaskin
 Vi kan grovt dele inn en virksomhets systemer i to. Grunndata og kundevendte. Grunndata er fellessystemer som ofte tjener som backend for kundevendte systemer. De inneholder ofte sensitive og verdifulle data for virksomheten og er preget av å være utviklet i en annen tid. De kan også inneholde virksomhetskritisk funksjonalitet, som for eksempel bokføring av banktransaksjoner. Kundevendte systemer bygges ofte på toppen av disse og benytter kritiske data og funksjoner fra grunndata-systemene for å tilby tjenester til sluttbrukere. Om flere kundevendte systemer leser fra og skriver til disse systemene, eller har behov for endringer, så oppstår integrasjoner som ikke foregår over API-er. Dette forhindrer hva vi ønsker å oppnå. Det er fort gjort å falle tilbake til orkestrering gjennom omfattende planlegging og orkestrering.
 
 Å skrive om alle disse grunndata-systemene til mikrotjenester uten avhengigheter og med perfekte veldefinerte API-er som kan releases kontinuerlig er neppe en farbar vei for å komme ut av dette uføret på kort sikt. Det vil jeg heller ikke foreslå å gjøre. For det første er det fryktelig vanskelig, for det andre er det enormt ressurskrevende, og for det tredje tar det fokus bort fra å lage kundevendte systemer som brukerne og forretning ønsker seg.
+
+Løsningen er å gradvis skape en arkitektur med løsere koblinger til baksystemene og sakte flytte funksjonalitet og data dit hvor de hører naturlig hjemme. Formålet er å muliggjøre utvikling, testing og produksjonssetting uten å være avhengig av et integrert miljø med alle avhengigheter.
+
+> So if you think you can’t implement DevOps practices because your app runs on a mainframe, think again. Don’t focus on the type of system you have: Instead, focus on re-architecting for testability and deployability.
+>
+> [2015 State of DevOpsReport](https://puppet.com/resources/white-paper/2015-state-of-devops-report), side 17.
 
 ## Kvel meg sakte
 Det vi forsøker å oppnå er færrest mulig endringer i baksystemene og løsere koblinger mellom kundevendte systemer og baksystemene. Ved utvikling av nye tjenester bør man derfor forsøke å gjøre seg så uavhengig som mulig av funksjoner som er implementert i baksystemene. Den nye tjenesten som skal utvikles har egne krav til funksjonalitet som kanskje ligner, men som ikke er helt det samme som er implementert i baksystemet. Gjenbruk er fristende, men bør unngås for enhver pris. På kort sikt medfører dette at man ikke ødelegger for andre tjenester fordi man slipper å gjøre endringer i baksystemet som benyttes av flere. Om man i tillegg kan få andre tjenester til å bruke den nye tjenesten over et API har man virkelig tatt et stort steg i riktig retning. På lengre sikt vil kanskje ingen ha bruk for funksjonaliteten i baksystemet lenger og man kan skru denne av. Ved streng disiplin vil man således sakte kvele det gamle systemet.
