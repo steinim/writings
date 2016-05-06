@@ -1,3 +1,5 @@
+![orchestration](https://github.com/steinim/writings/raw/master/images/dirigent.png)
+
 # Orkestrering av IT-utvikling i store organisasjoner
 
 Avhengigheter mellom leveranseteam, og avhengigheter til eksisterende IT-systemer eller forvaltning kan være utfordrende å håndtere. Særlig ved gjennomføring av større IT-prosjekter. Det mest vanlige er å legge omfattende planer for å synkronisere aktiviteter som har avhengigheter. Omfattende planlegging er imidlertid ikke riktig løsning og er direkte skadelig for organisasjoner som jobber Smidig.
