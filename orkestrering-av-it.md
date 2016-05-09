@@ -34,6 +34,7 @@ En viktig forutsetning for å lykkes med en API-basert organisasjon er at IT-ark
 Forretningsbehovene implementeres som frittstående applikasjoner av team som besitter all kompetanse som skal til for å videreutvikle tjenestene de eier. Teamet eier hele stacken fra database til GUI og har ansvar for design, utvikling, test, og release til produksjon. Arkitekturen og teknologien i hver tjeneste trenger ikke å være lik som i de andre tjenestene. Andre team trenger i praksis ikke å vite hva som skjer internt i de andre tjenestene. De trenger kun å vite om API-endringene. Kommunikasjonen mellom teamene struktureres rundt kommunikasjon mellom tjenester via API-er.
 
 ![Team kommuniserer over api-er](https://github.com/steinim/writings/raw/master/images/teams_api.png)
+
 *Figuren er hentet fra foredraget [Architecting for Continuous Delivery](https://www.youtube.com/watch?v=_wnd-eyPoMo) av Jez Humble*
 
 ## Anyone who doesn’t do this will be fired.  Thank you; have a nice day!
