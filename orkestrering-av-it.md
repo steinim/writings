@@ -25,7 +25,7 @@ Smidige team sitter sammen og kommuniserer tett hver dag. De kommuniserer ikke l
 >
 > [M. Conway, How Do Committees Invent, 1968](http://www.melconway.com/research/committees.html)
 
-Man må for all del unngå team organisert etter teknologi (web-team, backend-team, integrasjons-team). Like viktig er det å unngå team organisert etter funksjon (utvikling, test, drift, sikkerhet, ux). Slike inndelinger kalles silo-organisasjon og kompliserer kommunikasjonen enormt. Det er dessuten veldig lite effektivt fordi oppgaver må løses på tvers av flere enheter, noe som medfører overleveringer, venting og misforståelser. Teamene bør isteden organiseres rundt forretningsbehov.
+Man må for all del unngå team organisert etter teknologi (web-team, backend-team, integrasjons-team). Like viktig er det å unngå team organisert etter funksjon (utvikling, test, drift, sikkerhet, ux, forretning). Slike inndelinger kalles silo-organisasjon og kompliserer kommunikasjonen enormt. Det er dessuten veldig lite effektivt fordi oppgaver må løses på tvers av flere enheter, noe som medfører overleveringer, venting og misforståelser. Teamene bør isteden organiseres rundt forretningsbehov.
 
 > Microservices allow organizations to align the architecture of their systems to the structure of their teams.
 >
