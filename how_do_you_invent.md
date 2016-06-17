@@ -2,7 +2,7 @@
 
 # How do you Invent?
 
-Istedenfor å lese denne bloggposten anbefaler jeg at du leser [Melvin E. Conway](https://en.wikipedia.org/wiki/Melvin_Conway) sitt paper ["How Do Committees Invent?"](http://www.melconway.com/research/committees.html) fra 1968. Om du likevel fortsetter å lese denne bloggposten vil jeg forsøke å gjenfortelle mine åpenbaringer da jeg leste det.
+Istedenfor å lese denne bloggposten anbefaler jeg at du leser [Melvin E. Conway](https://en.wikipedia.org/wiki/Melvin_Conway) sitt paper ["How Do Committees Invent?"](http://www.melconway.com/research/committees.html) fra 1968. Om du likevel fortsetter å lese denne bloggposten vil jeg forsøke å gjenfortelle mine åpenbaringer da jeg leste den.
 
 ---
 
@@ -22,6 +22,7 @@ Følgende sitat er ofte omtalt som "Conway's konsekvens" (corollary), og sier at
 
 > Flexibility of organization is important to effective design.
 
+Conway ser sammenhengen mellom 
 
 > There is a homomorphism from the linear graph of a system to the linear graph of its design organization.
 
@@ -55,6 +56,10 @@ Følgende sitat er ofte omtalt som "Conway's konsekvens" (corollary), og sier at
 > Application of the conventional wisdom of management to a large organization causes its communication structure to disintegrate.
 
 > Even in a moderately small organization it becomes necessary to restrict communication in order that people can get some "work" done.
+
+> Communication is a sign of dysfunction... We should be trying to figure out a way for teams to communicate less with each other, not more.
+> 
+> [Jeff Bezos, CEO i Amazon](http://www.amazon.com/The-Everything-Store-Bezos-Amazon/dp/0316219266)
 
 ### Årsak #3
 > Homomorphism insures that the structure of the system will reflect the disintegration which has occurred in the organization.
