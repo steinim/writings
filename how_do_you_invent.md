@@ -1,3 +1,5 @@
+![Melvin E. Conway](https://github.com/steinim/writings/raw/master/images/conway.png)
+
 # How do you Invent?
 
 Istedenfor å lese denne bloggposten anbefaler jeg at du leser [Melvin E. Conway](https://en.wikipedia.org/wiki/Melvin_Conway) sitt paper ["How Do Committees Invent?"](http://www.melconway.com/research/committees.html) fra 1968. Om du likevel fortsetter å lese denne bloggposten vil jeg forsøke å gjenfortelle mine åpenbaringer da jeg leste det.
