@@ -15,7 +15,7 @@ Du har sikkert hørt om Conway's Law. Den går som følger:
 Selv om Conway skrev sin artikkel på sekstitallet, så fikk ikke "loven" så mye oppmerksomhet før på nittitallet.  Siden har den vært å finne i [hundretusenvis av bloggposter og presentasjoner](http://lmgtfy.com/?q=conway%27s+law). Å kalle det en lov er å ta hardt i. Det var [Fred Brooks](https://en.wikipedia.org/wiki/Fred_Brooks) som siterte artikkelen i klassikeren ["The Mythical Man-Month"](https://en.wikipedia.org/wiki/The_Mythical_Man-Month), hvor han kalte det for "Conway's Law." Det dreier seg nemlig mer om en _observasjon_ enn et bevis ([senere forskning](https://en.wikipedia.org/wiki/Conway%27s_law#Supporting_evidence) støtter imidlertid observasjonen). Observasjonen beskriver på en utmerket og kortfattet måte sammenhengen mellom organisasjoners struktur og IT-arkitektur. Som for eksempel at hvert Smidig-team lager hvert sitt system når forretningen er organisert etter teaminndelingen. "Loven" har gitt grobunn for fokuset på å bryte ned organisatoriske siloer for å skape mer effektive organisasjoner som tilfredsstiller brukernes behov. Digitalisering, DevOps og mikrotjenester er eksempler på fenomener som har oppstått i kjølvannet.
 
 ## Har du ikke lest hele artikkelen?
-Jeg har ofte sitert Conway's Law – også før jeg hadde lest hele artikkelen. Kanskje burde jeg ikke ha gjort det, men jeg føler ikke at jeg har bommet på intensjonen. Mange andre (som sikkert har lest artikkelen) har forklart meg hva den betyr. Nå har jeg imidlertid lest artikkelen, og det vil jeg anbefale alle andre å gjøre også. Den inneholder nemlig mye mer gull enn bare "loven".
+Jeg har ofte sitert Conway's Law – også før jeg hadde lest hele artikkelen. Kanskje burde jeg ikke ha gjort det, men jeg føler ikke at jeg har bommet på intensjonen. Mange andre (som sikkert har lest artikkelen) har forklart meg hva den betyr. Nå har jeg imidlertid lest artikkelen, og det vil jeg anbefale alle andre å gjøre også. Den inneholder nemlig mye mer gull enn bare "loven". Artikkelen har hatt enorm betydning for moderne IT. Mye mer enn jeg ante.
 
 ## Conway's konsekvens
 Følgende sitat er ofte omtalt som "Conway's konsekvens" (corollary):
@@ -28,7 +28,7 @@ Dersom Conway's Law er korrekt vil fleksibiliteten i en organisasjon påvirke hv
 
 ![Homomorfisme mellom system og organisasjon](https://github.com/steinim/writings/raw/master/images/conway_homomorphism.png)
 
-Conway's konsekvens har hatt enorm påvirkning på vår tids store hype. Som vi ser av figurene under har [konseptet mikrotjenester](http://martinfowler.com/articles/microservices.html), slik det er formulert av James Lewis og Martin Fowler, hentet inspirasjon fra Conway's konsekvens. Sam Newman, kollega av Lewis og Fowler, skriver i sin bloggpost ["Demystifying Conway's Law"](https://www.thoughtworks.com/insights/blog/demystifying-conways-law):
+Conway har hatt enorm påvirkning på vår tids store hype. Som vi ser av figurene under har [konseptet mikrotjenester](http://martinfowler.com/articles/microservices.html), slik det er formulert av James Lewis og Martin Fowler, hentet inspirasjon fra Conway's konsekvens. Sam Newman, kollega av Lewis og Fowler, skriver i sin bloggpost ["Demystifying Conway's Law"](https://www.thoughtworks.com/insights/blog/demystifying-conways-law):
 
 > Microservices allow organizations to align the architecture of their systems to the structure of their teams.
 >
@@ -37,13 +37,23 @@ Conway's konsekvens har hatt enorm påvirkning på vår tids store hype. Som vi 
 ![Mikrotjenester](https://github.com/steinim/writings/raw/master/images/microservices2.png)
 ![Monolittisk applikasjon speiler siloene ](https://github.com/steinim/writings/raw/master/images/microservices1.png)
 
-
 ## Conway om kontinuerlig forbedring
-> There's never enough time to do something right, but there's always enough time to do it over.
+Har du bidratt til å utvikle et IT-system noen gang så vet du at perfeksjon er umulig. Ikke bare første gang du lager det, men hver gang du gjør en forbedring.
 
 > Given any system design, someone someday will find a better one to do the same job.
 
-## Store systemer går i oppløsning
+Dette er sant for alt vi gjør, og det er derfor vi innen systemutvikling snakker om kontinuerlig alt mulig rart. Kontinuerlig forbedring, -integrasjon, -testing, -deployment, -leveranse og så videre.
+
+> There's never enough time to do something right, but there's always enough time to do it over.
+
+Vi er selvsagt enige i dette, men av (for meg) uforståelige grunner eksisterer det fremdeles IT-prosjekter hvor de som styrer gjennomføringen ikke har tatt dette innover seg. Conway beskriver at idealet om å etablere avgrensninger, lage et konsept, organisere et prosjekt og delegere aktiviteter, koordinere mellom oppgaver og å konsolidere sub-design til ett enkelt system ikke alltid er rett frem å gjøre (underdrivelse!). Endringer i forutsetninger vil kunne inntreffe hvor som helst, og nye åpenbart overlegne design-konsepter vil avdekkes. Dette kan være utfordrende å innrømme:
+
+> Such an appearance of uncertainty is unflattering, and the very act of voluntarily abandoning a creation is painful and expensive.
+
+## Conway om store systemer og store organisasjoner
+
+> To the extent that an organization is not completely flexible in its communication structure, that organization will stamp out an image of itself in every design it produces. The larger an organization is, the less flexibility it has and the more pronounced is the phenomenon.
+
 > The structures of large systems tend to disintegrate during development, qualitatively more so than with small systems.
 
 > If a team can’t be fed with two pizzas, it’s too big.
