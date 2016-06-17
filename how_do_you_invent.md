@@ -30,8 +30,8 @@ Dersom Conway's Law er korrekt vil fleksibiliteten i en organisasjon påvirke hv
 
 Som vi ser av figurene under har konseptet mikrotjenester, slik det er formulert av James Lewis og Martin Fowler, hentet inspirasjon fra Conway's konsekvens.
 
-![Monolittisk applikasjon speiler siloene ](https://github.com/steinim/writings/raw/master/images/microservices1.png)
 ![Mikrotjenester](https://github.com/steinim/writings/raw/master/images/microservices2.png)
+![Monolittisk applikasjon speiler siloene ](https://github.com/steinim/writings/raw/master/images/microservices1.png)
 
 ## Conway om kontinuerlig forbedring
 > There's never enough time to do something right, but there's always enough time to do it over.
