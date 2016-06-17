@@ -81,7 +81,7 @@ Vi er selvsagt enige i dette, men av (for meg) uforståelige grunner eksisterer 
 ### Årsak #3
 > Homomorphism insures that the structure of the system will reflect the disintegration which has occurred in the organization.
 
-## Hva kan vi lære av Conway?
+## Hva kan vi så lære av Conway?
 1. Increase communications
 
 2. Support continuous process
