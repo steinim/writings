@@ -34,8 +34,7 @@ Conway har hatt enorm påvirkning på vår tids store hype. Som vi ser av figure
 >
 > [Sam Newman, Demystifying Conway’s Law, 2015](https://www.thoughtworks.com/insights/blog/demystifying-conways-law)
 
-![Mikrotjenester](https://github.com/steinim/writings/raw/master/images/microservices2.png)
-![Monolittisk applikasjon speiler siloene ](https://github.com/steinim/writings/raw/master/images/microservices1.png)
+![Mikrotjenester](https://github.com/steinim/writings/raw/master/images/microservices.png)
 
 ## Conway om kontinuerlig forbedring
 Har du bidratt til å utvikle et IT-system noen gang så vet du at perfeksjon er umulig. Ikke bare første gang du lager det, men hver gang du gjør en forbedring.
