@@ -36,12 +36,14 @@ Conway har hatt enorm påvirkning på vår tids store hype. Som vi ser av figure
 
 ![Mikrotjenester](https://github.com/steinim/writings/raw/master/images/microservices.png)
 
+Mikrotjeneste-arkitektur har ingen presis definisjon. For eksempel er det uenighet om hvor store mikrotjenester bør være. Det er imidlertid noen felles karakteristika. Tjenestene skal kunne produksjonssettes uavhengig av hverandre, produksjonssetting skal være automatisert, de er desentraliserte og må orkestreres, de snakker sammen over veldefinerte API-er, og de er organisert rundt forretningsbehov. Det er det siste kjennetegnet som gjør tjenestedesign fleksibelt, men denne fordelen oppnås ikke uten at også organisasjonen er fleksibel. Om mikrotjenester skal gi virkelig verdi må organisasjonen tilpasse seg IT-arkitekturen og vice versa.
+
 ## Conway om kontinuerlig forbedring
 Har du bidratt til å utvikle et IT-system noen gang så vet du at perfeksjon er umulig. Ikke bare første gang du lager det, men hver gang du gjør en forbedring.
 
 > Given any system design, someone someday will find a better one to do the same job.
 
-Dette er sant for alt vi gjør, og det er derfor vi innen systemutvikling snakker om kontinuerlig alt mulig rart. Kontinuerlig forbedring, -integrasjon, -testing, -deployment, -leveranse og så videre.
+Dette er sant for alt vi gjør, og det er derfor vi innen systemutvikling snakker om kontinuerlig alt mulig rart. Kontinuerlig forbedring, -integrasjon, -testing, -deployment, -leveranse og så videre. Vi må gradvis og kontinuerlig forbedre alt vi gjør. Et IT-system er aldri ferdig, akkurat som forretningsbehov som er kontinuerlig under utvikling.
 
 > There's never enough time to do something right, but there's always enough time to do it over.
 
