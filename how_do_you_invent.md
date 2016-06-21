@@ -57,14 +57,20 @@ Jo større en organisasjon er jo vanskeligere er det å være fleksibel. Effekti
 
 > To the extent that an organization is not completely flexible in its communication structure, that organization will stamp out an image of itself in every design it produces. The larger an organization is, the less flexibility it has and the more pronounced is the phenomenon.
 
-Om man ikke evner å skape fleksibilitet i organisasjonen og sette sammen mindre grupperinger som kan jobbe med avgrensede forretningsområder vil resultatet bli monolittiske store IT-systemer som er tilsvarende lite fleksible. Store og komplekse IT-systemer er svært krevende å forvalte og videreutvikle og vil ofte falle over av sin egen tyngde. Endringer blir vanskeligere og vanskeligere å legge til, og nye forretningsmuligheter vanskelig å forfølge. Mindre systemer er derfor å foretrekke, men det krever en fleksibel organisasjon som kan håndtere det.
+Om man ikke evner å skape fleksibilitet i organisasjonen og sette sammen mindre grupperinger som kan jobbe med avgrensede forretningsområder vil resultatet bli monolittiske store IT-systemer som er tilsvarende lite fleksible. Store og komplekse IT-systemer er svært krevende å forvalte og videreutvikle og vil ofte falle over av sin egen tyngde. Endringer blir vanskeligere og vanskeligere å legge til, og nye forretningsmuligheter vanskelige å forfølge. Mindre systemer er derfor å foretrekke, men det krever en fleksibel organisasjon som kan håndtere det.
 
 > The structures of large systems tend to disintegrate during development, qualitatively more so than with small systems.
+
+Conway gir tre årsaker til hvorfor dette er tilfelle.
 
 ### Årsak #1
 > The realization that the system will be large, together with certain pressures in their organization, make irresistible the temptation to assign too many people to a design effort.
 
+Om oppgaven blir for stor er det fristende å skalere opp med mye folk. Store IT-prosjekter er et godt eksempel på at man gaper over for mye. Ofte tar man ikke i betraktning at flere folk sjeldent gjør at oppgaven løses raskere.
+
 > Two men working for a year or one hundred men working for a week (at the same hourly cost per man) are (not) resources of equal value.
+
+Å bemanne opp med fler folk i et pågående prosjekt for å kompensere for at oppgaven ikke løses raskt nok er enda værre, noe [Fred Brooks](https://en.wikipedia.org/wiki/Fred_Brooks) også forklarer i ["The Mythical Man-Month"](https://en.wikipedia.org/wiki/The_Mythical_Man-Month).
 
 > Adding manpower to a late software project makes it later.
 >
