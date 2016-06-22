@@ -117,7 +117,7 @@ Om du vil lese mer om mine tilgrensende synspunkter kan du ta en titt på:
 * [Slutt med IT-prosjekter!](http://open.bekk.no/slutt-med-it-prosjekter)
 * [Orkestrering av IT-utvikling i store organisasjoner](open.bekk.no/orkestrering-av-it-utvikling-i-store-organisasjoner) 
 * [Kontinuerlig gevinstrealisering med UsrBizDevOps](http://open.bekk.no/usrbizdevops)
-* [A Maturity Model for Continuous Delivery](https://open.bekk.no/a-maturity-model-for-continuous-delivery]
+* [A Maturity Model for Continuous Delivery](https://open.bekk.no/a-maturity-model-for-continuous-delivery)
 
 ---
 > If you have four groups working on a compiler, you'll get a 4-pass compiler.
