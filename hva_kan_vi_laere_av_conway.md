@@ -97,7 +97,13 @@ Det er derfor viktig å begrense behovet for kommunikasjon mellom ulike enheter 
 ### Årsak #3
 > Homomorphism insures that the structure of the system will reflect the disintegration which has occurred in the organization.
 
+Store organisasjoner og store IT-prosjekter vil nødvendigvis medføre lite fleksible systemer i overensstemmelse med Conway's Law. Om man ikke evner å ha en fleksibel organisasjon med små definerte team som eier og videreutvikler konkrete forretningsbehov på en autonom måte vil IT-systemene som produseres være uegnet for effektiv forretningsutvikling.
+
 ## Hva kan vi så lære av Conway?
+Conways artikkel fra 1968 har som vi har sett hatt enorm påvirkning på moderne IT og forretningsutvikling. Man kan kanskje ikke tilskrive Conway alle trender, da for eksempel Smidig og Lean utvilsomt (også) har andre inspirasjonskilder. Men man kan ihvertfall si at Conway har vært forutseende for hvor vi er i dag.
+
+
+
 1. Increase communications
 
 2. Support continuous process
