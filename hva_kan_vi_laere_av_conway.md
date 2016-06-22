@@ -102,17 +102,21 @@ Store organisasjoner og store IT-prosjekter vil nødvendigvis medføre lite flek
 ## Hva kan vi så lære av Conway?
 Conways artikkel fra 1968 har som vi har sett hatt enorm påvirkning på moderne IT og forretningsutvikling. Man kan kanskje ikke tilskrive Conway alle trender, da for eksempel Smidig og Lean utvilsomt (også) har andre inspirasjonskilder. Men man kan ihvertfall si at Conway har vært forutseende for hvor vi er i dag.
 
+De viktigste prinsippene i Conways artikkel er for meg følgende.
 
+1. Optimaliser kommunikasjon
 
-1. Increase communications
+2. Etabler en kontinuerlig prosess
 
-2. Support continuous process
+3. Organiser team rundt produkter fremfor prosjekter
 
-3. Organize teams by products
+4. Ha så små team som mulig
 
-4. Make teams small as necessary
-
-
+Om du vil lese mer om mine tilgrensende synspunkter kan du ta en titt på:
+[Slutt med IT-prosjekter!](http://open.bekk.no/slutt-med-it-prosjekter)
+[Orkestrering av IT-utvikling i store organisasjoner](open.bekk.no/orkestrering-av-it-utvikling-i-store-organisasjoner) 
+[Kontinuerlig gevinstrealisering med UsrBizDevOps](http://open.bekk.no/usrbizdevops)
+[A Maturity Model for Continuous Delivery](https://open.bekk.no/a-maturity-model-for-continuous-delivery]
 ---
 > If you have four groups working on a compiler, you'll get a 4-pass compiler.
 >
