@@ -65,7 +65,7 @@ Conway gir tre årsaker til hvorfor dette er tilfelle.
 ### Årsak #1
 > The realization that the system will be large, together with certain pressures in their organization, make irresistible the temptation to assign too many people to a design effort.
 
-Om oppgaven blir for stor er det fristende å skalere opp med mye folk. Store IT-prosjekter er et godt eksempel på at man gaper over for mye. Ofte tar man ikke i betraktning at flere folk ikke gjør at oppgaven løses raskerei eller bedre.
+Om oppgaven blir for stor er det fristende å skalere opp med mye folk. Store IT-prosjekter er et godt eksempel på at man gaper over for mye. Ofte tar man ikke i betraktning at flere folk ikke gjør at oppgaven løses raskere eller bedre.
 
 > Two men working for a year or one hundred men working for a week (at the same hourly cost per man) are (not) resources of equal value.
 
@@ -80,11 +80,15 @@ Om oppgaven blir for stor er det fristende å skalere opp med mye folk. Store IT
 ### Årsak #2
 > Application of the conventional wisdom of management to a large organization causes its communication structure to disintegrate.
 
-Med tradisjonell ledelse menes en hierarkisk struktur hvor hvert individ har en leder og hvor hver leder har ansvar for et begrenset antall folk. Dette gir en lite egnet kommunikasjonsstruktur, og slike organisasjoner lager systemer som ser ut som organisasjonskartet. Det er derfor selskaper som Spotify har organisert seg på en alternativ måte med små kryssfunksjonelle team organisert rundt forretningsbehov. Se [Scaling Agile @ Spotify](https://docs.google.com/viewer?url=https://dl.dropbox.com/u/1018963/Articles/SpotifyScaling.pdf).
+Med tradisjonell ledelse menes en hierarkisk struktur hvor hvert individ har en leder og hvor hver leder har ansvar for et begrenset antall folk. Dette gir en lite egnet kommunikasjonsstruktur, og slike organisasjoner lager systemer som ser ut som organisasjonskartet. Det er derfor selskaper som Spotify har organisert seg med på en alternativ måte med små kryssfunksjonelle team organisert rundt forretningsbehov. Se [Scaling Agile @ Spotify](https://docs.google.com/viewer?url=https://dl.dropbox.com/u/1018963/Articles/SpotifyScaling.pdf).
 
 ![Scaling Agile @ Spotify](https://github.com/steinim/writings/raw/master/images/scaling_agile_at_spotify.png)
 
+Kommunikasjon anses ofte som positivt for å stimulere til samhandling. Utfordringen med kommunikasjon på tvers av enheter er at det stjeler tid og at det i liten grad kompenserer for behovet for å jobbe _sammen_.
+
 > Even in a moderately small organization it becomes necessary to restrict communication in order that people can get some "work" done.
+
+Det er derfor viktig å begrense behovet for kommunikasjon mellom ulike enheter i organisasjonen slik at hver enhet kan jobbe uforstyrret og effektivt med sine oppgaver. [Jeff Bezos](https://en.wikipedia.org/wiki/Jeff_Bezos), CEO i Amazon påla i 2002 sine enheter å eksponere funksjonalitet og data gjennom API-er og at teamene kun hadde lov til å kommunisere med hverandre via API-ene. Ingen unntak. 
 
 > Communication is a sign of dysfunction... We should be trying to figure out a way for teams to communicate less with each other, not more.
 > 
