@@ -102,13 +102,11 @@ Store organisasjoner og store IT-prosjekter vil nødvendigvis medføre lite flek
 ## Hva kan vi så lære av Conway?
 Conways artikkel fra 1968 har som vi har sett hatt enorm påvirkning på moderne IT og forretningsutvikling. Man kan kanskje ikke tilskrive Conway alle trender, da for eksempel Smidig og Lean utvilsomt (også) har andre inspirasjonskilder. Men man kan ihvertfall si at Conway har vært forutseende og at artikkelen han skrev er høyst aktuell i dag.
 
-1. Optimaliser kommunikasjon
+Idéen om å lage mikrotjenester for å matche forretningsstrukturen bedre virker lovende, men den store effekten oppnår man ikke uten en fleksibel organisasjon som også speiler tjenestene. Små selvgående team som besitter all kompetanse som skal til for å videreutvikle tjenestene med færrest mulig avhengigheter til andre enheter er det optimale. Hensikten med DevOps er at teamet også skal drifte systemene de utvikler, men det er også en rekke andre aktører som må inkluderes. Eksempler er forretning, interaksjonsdesignere og sikkerhet. På den måten optimaliserer man kommunikasjon ved at den foregår tett internt i teamet mens den har lavere båndbredde mot andre team og enheter. Kommunikasjon mellom systemer løses ved å lage veldefinerte API-er for mikrotjenestene.
 
-2. Etabler en kontinuerlig prosess
+Ved å organisere små team rundt produkter som kontinuerlig videreutvikles, istedenfor å gjennomføre IT-prosjekter, sikrer man at systemene ikke blir store monolitter som må overleveres til linja. En ekstra utfordring med IT-prosjekter er at systemene lages innenfor én organisasjon og overleveres til en annen med en ulik struktur. Dette forsterker utfordringene med systemer som er laget som en avbildning av én organisering og forvaltes av en annen.
 
-3. Organiser team rundt produkter fremfor prosjekter
-
-4. Ha så små team som mulig
+Om man skal lykkes med digitalisering er det essensielt å etablere en kontinuerlig prosess for produktutvikling. Realiteten er at omverdenen endrer seg i et raskere og raskere tempo, så om man skal henge med må organisasjonen rigges for innovasjon. Kontinuerlig og fleksibel.
 
 Om du vil lese mer om mine tilgrensende synspunkter kan du ta en titt på:
 
