@@ -71,7 +71,7 @@ Om oppgaven blir for stor er det fristende å skalere opp med mye folk. Store IT
 
 > From experience we know that the two men, if they are well chosen and survive the experience, will give us a better system.
 
-Å bemanne opp med fler folk i et pågående prosjekt for å kompensere for at oppgaven ikke løses raskt nok er enda værre, noe [Fred Brooks](https://en.wikipedia.org/wiki/Fred_Brooks) også forklarer i ["The Mythical Man-Month"](https://en.wikipedia.org/wiki/The_Mythical_Man-Month).
+Å bemanne opp med fler folk i et _pågående_ prosjekt for å kompensere for at oppgaven ikke løses raskt nok er enda værre, noe [Fred Brooks](https://en.wikipedia.org/wiki/Fred_Brooks) også forklarer i ["The Mythical Man-Month"](https://en.wikipedia.org/wiki/The_Mythical_Man-Month).
 
 > Adding manpower to a late software project makes it later.
 >
