@@ -115,7 +115,3 @@ Om du vil lese mer om mine tilgrensende synspunkter kan du ta en titt på:
 * [Kontinuerlig gevinstrealisering med UsrBizDevOps](http://open.bekk.no/usrbizdevops)
 * [A Maturity Model for Continuous Delivery](https://open.bekk.no/a-maturity-model-for-continuous-delivery)
 
----
-> If you have four groups working on a compiler, you'll get a 4-pass compiler.
->
-> [Eric S. Raymond, 1991](http://catb.org/~esr/jargon/html/C/Conways-Law.html)
