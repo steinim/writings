@@ -52,7 +52,7 @@ Det er ikke noen vits i å strebe etter perfeksjon. Vi må være forberedt på �
 > Such an appearance of uncertainty is unflattering, and the very act of voluntarily abandoning a creation is painful and expensive.
 
 ## Conway om store systemer og store organisasjoner
-Jo større en organisasjon er jo vanskeligere er det å være fleksibel. Effektiv kommunikasjon med lite overhead er krevende å få til. Samarbeid mellom de riktige enhetene og personene som kreves for å oppnå mål er uoversiktelig og vanskelig å legge til rette for.
+Jo større en organisasjon er jo vanskeligere er det å være fleksibel. Effektiv kommunikasjon med lite overhead er krevende å få til. Samarbeid mellom de riktige enhetene og personene som kreves for å oppnå mål er uoversiktelig og vanskelig å legge til rette for. Dette er årsaken til at store organisasjoner sliter med å innføre Smidig, og at IT-systemene lider under å være avbildninger av en stor og kompleks organisasjon.
 
 > To the extent that an organization is not completely flexible in its communication structure, that organization will stamp out an image of itself in every design it produces. The larger an organization is, the less flexibility it has and the more pronounced is the phenomenon.
 
