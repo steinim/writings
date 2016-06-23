@@ -28,7 +28,7 @@ Dersom Conway's Law er korrekt vil fleksibiliteten i en organisasjon påvirke hv
 
 ![Homomorfisme mellom system og organisasjon](https://github.com/steinim/writings/raw/master/images/conway_homomorphism.png)
 
-Conway har hatt stor påvirkning på en av de store hypene i dag – mikrotjenester. Som vi ser av figurene under har [konseptet mikrotjenester](http://martinfowler.com/articles/microservices.html), slik det er formulert av James Lewis og Martin Fowler, hentet inspirasjon fra Conway's konsekvens. Sam Newman, kollega av Lewis og Fowler, skriver i sin bloggpost ["Demystifying Conway's Law"](https://www.thoughtworks.com/insights/blog/demystifying-conways-law):
+Conway har hatt stor påvirkning på en av de store hypene i dag – mikrotjenester. Som vi ser av figurene under har [konseptet mikrotjenester](http://martinfowler.com/articles/microservices.html), slik det er formulert av [James Lewis](https://www.thoughtworks.com/profiles/james-lewis) og [Martin Fowler](https://en.wikipedia.org/wiki/Martin_Fowler), hentet inspirasjon fra Conway's konsekvens. [Sam Newman](https://www.thoughtworks.com/profiles/sam-newman), kollega av Lewis og Fowler, skriver i sin bloggpost ["Demystifying Conway's Law"](https://www.thoughtworks.com/insights/blog/demystifying-conways-law):
 
 > Microservices allow organizations to align the architecture of their systems to the structure of their teams.
 >
