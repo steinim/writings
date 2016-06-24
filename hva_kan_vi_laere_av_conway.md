@@ -43,7 +43,7 @@ Har du bidratt til å utvikle et IT-system noen gang så vet du at perfeksjon er
 
 > Given any system design, someone someday will find a better one to do the same job.
 
-Dette er sant for alt vi gjør, og det er derfor vi innen systemutvikling snakker om kontinuerlig alt mulig rart. Kontinuerlig forbedring, -integrasjon, -testing, -deployment, -leveranse og så videre. Vi må gradvis og kontinuerlig forbedre alt vi gjør. Et IT-system er aldri ferdig, på samme måte som at forretningsbehov er under stadig utvikling. Digitaliseringsbølgen som skyller over samfunnet krever kontinuerlig nytenkning og eksperimentering.
+Dette er sant for alt vi gjør, og det er derfor vi innen systemutvikling snakker om kontinuerlig alt mulig rart. Kontinuerlig forbedring, -integrasjon, -testing, -deployment, -leveranse og så videre. Vi må gradvis og kontinuerlig forbedre alt vi gjør. IT-systemer blir aldri ferdige, på samme måte som at forretningsbehov er under stadig utvikling. Digitaliseringsbølgen som skyller over samfunnet krever kontinuerlig nytenkning og eksperimentering.
 
 > There's never enough time to do something right, but there's always enough time to do it over.
 
@@ -56,7 +56,7 @@ Jo større en organisasjon er jo vanskeligere er det å være fleksibel. Effekti
 
 > To the extent that an organization is not completely flexible in its communication structure, that organization will stamp out an image of itself in every design it produces. The larger an organization is, the less flexibility it has and the more pronounced is the phenomenon.
 
-Om man ikke evner å skape fleksibilitet i organisasjonen og sette sammen mindre grupperinger som kan jobbe med avgrensede forretningsområder vil resultatet bli monolittiske og store IT-systemer som er tilsvarende lite fleksible. Store og komplekse IT-systemer er svært krevende å forvalte og videreutvikle og vil ofte falle over av sin egen tyngde. Endringer blir vanskeligere og vanskeligere å legge til, og nye forretningsmuligheter vanskelige å forfølge. Mindre systemer er derfor å foretrekke, men det krever en fleksibel organisasjon som kan håndtere det.
+Om man ikke evner å skape fleksibilitet i organisasjonen og sette sammen mindre grupperinger som kan jobbe med avgrensede forretningsområder vil resultatet bli monolittiske og store IT-systemer som er tilsvarende lite fleksible. Store og komplekse IT-systemer er svært krevende å forvalte og videreutvikle og vil ofte falle over av sin egen tyngde. Endringer blir vanskeligere og vanskeligere å legge til, og nye forretningsmuligheter blir krevende å forfølge. Mindre systemer er derfor å foretrekke, men det krever en fleksibel organisasjon som kan håndtere det.
 
 > The structures of large systems tend to disintegrate during development, qualitatively more so than with small systems.
 
@@ -88,7 +88,7 @@ Kommunikasjon anses ofte som positivt for å stimulere til samhandling. Utfordri
 
 > Even in a moderately small organization it becomes necessary to restrict communication in order that people can get some "work" done.
 
-Det er derfor viktig å begrense behovet for kommunikasjon mellom ulike enheter i organisasjonen slik at hver enhet kan jobbe uforstyrret og effektivt med sine oppgaver. [Jeff Bezos](https://en.wikipedia.org/wiki/Jeff_Bezos), CEO i Amazon påla i 2002 sine enheter å eksponere funksjonalitet og data gjennom API-er og at teamene kun hadde lov til å kommunisere med hverandre via API-ene. Ingen unntak. 
+Det er derfor viktig å begrense behovet for kommunikasjon mellom ulike enheter i organisasjonen slik at hver enhet kan jobbe uforstyrret og effektivt med sine oppgaver. [Jeff Bezos](https://en.wikipedia.org/wiki/Jeff_Bezos), CEO i Amazon påla i 2002 sine enheter å eksponere funksjonalitet og data gjennom API-er og at de kun hadde lov til å kommunisere med hverandre via API-ene. Ingen unntak. 
 
 > Communication is a sign of dysfunction... We should be trying to figure out a way for teams to communicate less with each other, not more.
 > 
