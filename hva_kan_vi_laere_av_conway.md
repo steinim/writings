@@ -120,8 +120,8 @@ Om du foretrekker å se video kan du se:
 * [Orkestrering av IT-utvikling i store organisasjoner](https://vimeo.com/album/1689780/video/168649718)
 * [Slutt med IT-prosjekter!](https://vimeo.com/album/1689780/video/145015970)
 * [Kill ‘Em All – and the ultimate developer will rise again!](https://vimeo.com/album/1689780/video/105761144)
-* [Er du moden for å levere kontinuerlig?](https://vimeo.com/album/1689780/video/49445221), sammen med Sveinung Dalatun
-* [Teknosklerose - Hvordan unngå at prosjektet ditt blir stivbeint](https://vimeo.com/album/1689780/video/78631919), sammen med Martin Bekkelund
 * [Enterprise DevOps Adoptions is not mandatory - but neither is survival](https://vimeo.com/album/1689780/video/110830940)
+* [Teknosklerose - Hvordan unngå at prosjektet ditt blir stivbeint](https://vimeo.com/album/1689780/video/78631919), sammen med Martin Bekkelund
+* [Er du moden for å levere kontinuerlig?](https://vimeo.com/album/1689780/video/49445221), sammen med Sveinung Dalatun
 * [Verdien av kontinuerlige leveranser](https://vimeo.com/album/1689780/video/64172818), sammen med Sveinung Dalatun
 * [Hvis du ikke leverer kontinuerlig, så er du ikke smidig!](https://vimeo.com/album/1689780/video/28891030)
