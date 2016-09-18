@@ -1,6 +1,6 @@
 ![Melvin E. Conway](https://github.com/steinim/writings/raw/master/images/conway.png)
 
-# How do you Invent?
+# How do you invent?
 
 Istedenfor å lese denne bloggposten anbefaler jeg at du leser [Melvin E. Conway](https://en.wikipedia.org/wiki/Melvin_Conway) sin artikkel ["How Do Committees Invent?"](http://www.melconway.com/research/committees.html) fra 1968. Om du likevel fortsetter å lese denne bloggposten vil jeg forsøke å gjenfortelle høydepunkter og knytte noen egne tanker til hva som står i den. Det er nemlig ikke bare Conway's Law som er verdt å få med seg.
 
@@ -17,33 +17,33 @@ Selv om Conway skrev sin artikkel på sekstitallet, så fikk ikke "loven" så my
 ## Har du ikke lest hele artikkelen?
 Jeg har ofte sitert Conway's Law – også før jeg hadde lest hele artikkelen. Kanskje burde jeg ikke ha gjort det, men jeg føler ikke at jeg har bommet på intensjonen. Mange andre (som sikkert har lest artikkelen) har forklart meg hva den betyr. Nå har jeg imidlertid lest artikkelen, og det vil jeg anbefale alle andre å gjøre også. Den inneholder nemlig mye mer gull enn bare "loven". Artikkelen har hatt enorm betydning for moderne IT. Mye mer enn jeg ante.
 
-## Conway's konsekvens
-Følgende sitat er ofte omtalt som "Conway's konsekvens" (corollary):
+## Conway's corollary
+The following quote is often referred to as "Conway's corollary":
 
 > Flexibility of organization is important to effective design.
 
-Dersom Conway's Law er korrekt vil fleksibiliteten i en organisasjon påvirke hvordan den designer ting, også IT-arkitektur. Han beskriver at det er en homomorfisme (avbildning) mellom organisasjonen og systemet den produserer.
+If Conway's Law is correct the flexibility of an organization will influence how it designs stuff, including IT architecture. He claims that there is a homomorphism (depiction) between the organization and the system which it produces.
 
 > There is a homomorphism from the linear graph of a system to the linear graph of its organization.
 
 ![Homomorfisme mellom system og organisasjon](https://github.com/steinim/writings/raw/master/images/conway_homomorphism.png)
 
-Conway har hatt stor påvirkning på en av de store hypene i dag – mikrotjenester. Som vi ser av figurene under har [konseptet mikrotjenester](http://martinfowler.com/articles/microservices.html), slik det er formulert av [James Lewis](https://www.thoughtworks.com/profiles/james-lewis) og [Martin Fowler](https://en.wikipedia.org/wiki/Martin_Fowler), hentet inspirasjon fra Conway's konsekvens. [Sam Newman](https://www.thoughtworks.com/profiles/sam-newman), kollega av Lewis og Fowler, skriver i sin bloggpost ["Demystifying Conway's Law"](https://www.thoughtworks.com/insights/blog/demystifying-conways-law):
+Conway has influenced one of the great hypes of today – microservices. As we can see from the figure below [the  microservices concept](http://martinfowler.com/articles/microservices.html), as it is formulated by [James Lewis](https://www.thoughtworks.com/profiles/james-lewis) and [Martin Fowler](https://en.wikipedia.org/wiki/Martin_Fowler), is inspired by Conway's corollary. [Sam Newman](https://www.thoughtworks.com/profiles/sam-newman), a colleague of Lewis and Fowler, writes in his blogpost ["Demystifying Conway's Law"](https://www.thoughtworks.com/insights/blog/demystifying-conways-law):
 
 > Microservices allow organizations to align the architecture of their systems to the structure of their teams.
 >
 > [Sam Newman, Demystifying Conway’s Law, 2015](https://www.thoughtworks.com/insights/blog/demystifying-conways-law)
 
-![Mikrotjenester](https://github.com/steinim/writings/raw/master/images/microservices.png)
+![Microservices](https://github.com/steinim/writings/raw/master/images/microservices.png)
 
-Mikrotjeneste-arkitektur har ingen presis definisjon. For eksempel er det uenighet om hvor store mikrotjenester bør være. Det er imidlertid noen felles karakteristika. Tjenestene skal kunne produksjonssettes uavhengig av hverandre, produksjonssetting skal være automatisert, de er desentraliserte og må orkestreres, de snakker sammen over veldefinerte API-er, og de er organisert rundt forretningsbehov. Det er det siste kjennetegnet som gjør tjenestedesign fleksibelt, men denne fordelen oppnås ikke uten at også organisasjonen er fleksibel. Om mikrotjenester skal gi virkelig verdi må organisasjonen tilpasse seg IT-arkitekturen og vice versa.
+Microservice Architecture doesn't have a presise definition. There is e.g. disagreements about how big a microservice should be.. Det er imidlertid noen felles karakteristika. Tjenestene skal kunne produksjonssettes uavhengig av hverandre, produksjonssetting skal være automatisert, de er desentraliserte og må orkestreres, de snakker sammen over veldefinerte API-er, og de er organisert rundt forretningsbehov. Det er det siste kjennetegnet som gjør tjenestedesign fleksibelt, men denne fordelen oppnås ikke uten at også organisasjonen er fleksibel. Om mikrotjenester skal gi virkelig verdi må organisasjonen tilpasse seg IT-arkitekturen og vice versa.
 
 ## Conway om kontinuerlig forbedring
 Har du bidratt til å utvikle et IT-system noen gang så vet du at perfeksjon er umulig. Ikke bare første gang du lager det, men hver gang du gjør en forbedring.
 
 > Given any system design, someone someday will find a better one to do the same job.
 
-Dette er sant for alt vi gjør, og det er derfor vi innen systemutvikling snakker om kontinuerlig alt mulig rart. Kontinuerlig forbedring, -integrasjon, -testing, -deployment, -leveranse og så videre. Vi må gradvis og kontinuerlig forbedre alt vi gjør. Et IT-system er aldri ferdig, på samme måte som at forretningsbehov er under stadig utvikling. Digitaliseringsbølgen som skyller over samfunnet krever kontinuerlig nytenkning og eksperimentering.
+Dette er sant for alt vi gjør, og det er derfor vi innen systemutvikling snakker om kontinuerlig alt mulig rart. Kontinuerlig forbedring, -integrasjon, -testing, -deployment, -leveranse og så videre. Vi må gradvis og kontinuerlig forbedre alt vi gjør. IT-systemer blir aldri ferdige, på samme måte som at forretningsbehov er under stadig utvikling. Digitaliseringsbølgen som skyller over samfunnet krever kontinuerlig nytenkning og eksperimentering.
 
 > There's never enough time to do something right, but there's always enough time to do it over.
 
@@ -56,7 +56,7 @@ Jo større en organisasjon er jo vanskeligere er det å være fleksibel. Effekti
 
 > To the extent that an organization is not completely flexible in its communication structure, that organization will stamp out an image of itself in every design it produces. The larger an organization is, the less flexibility it has and the more pronounced is the phenomenon.
 
-Om man ikke evner å skape fleksibilitet i organisasjonen og sette sammen mindre grupperinger som kan jobbe med avgrensede forretningsområder vil resultatet bli monolittiske og store IT-systemer som er tilsvarende lite fleksible. Store og komplekse IT-systemer er svært krevende å forvalte og videreutvikle og vil ofte falle over av sin egen tyngde. Endringer blir vanskeligere og vanskeligere å legge til, og nye forretningsmuligheter vanskelige å forfølge. Mindre systemer er derfor å foretrekke, men det krever en fleksibel organisasjon som kan håndtere det.
+Om man ikke evner å skape fleksibilitet i organisasjonen og sette sammen mindre grupperinger som kan jobbe med avgrensede forretningsområder vil resultatet bli monolittiske og store IT-systemer som er tilsvarende lite fleksible. Store og komplekse IT-systemer er svært krevende å forvalte og videreutvikle og vil ofte falle over av sin egen tyngde. Endringer blir vanskeligere og vanskeligere å legge til, og nye forretningsmuligheter blir krevende å forfølge. Mindre systemer er derfor å foretrekke, men det krever en fleksibel organisasjon som kan håndtere det.
 
 > The structures of large systems tend to disintegrate during development, qualitatively more so than with small systems.
 
@@ -88,7 +88,7 @@ Kommunikasjon anses ofte som positivt for å stimulere til samhandling. Utfordri
 
 > Even in a moderately small organization it becomes necessary to restrict communication in order that people can get some "work" done.
 
-Det er derfor viktig å begrense behovet for kommunikasjon mellom ulike enheter i organisasjonen slik at hver enhet kan jobbe uforstyrret og effektivt med sine oppgaver. [Jeff Bezos](https://en.wikipedia.org/wiki/Jeff_Bezos), CEO i Amazon påla i 2002 sine enheter å eksponere funksjonalitet og data gjennom API-er og at teamene kun hadde lov til å kommunisere med hverandre via API-ene. Ingen unntak. 
+Det er derfor viktig å begrense behovet for kommunikasjon mellom ulike enheter i organisasjonen slik at hver enhet kan jobbe uforstyrret og effektivt med sine oppgaver. [Jeff Bezos](https://en.wikipedia.org/wiki/Jeff_Bezos), CEO i Amazon påla i 2002 sine enheter å eksponere funksjonalitet og data gjennom API-er og at de kun hadde lov til å kommunisere med hverandre via API-ene. Ingen unntak. 
 
 > Communication is a sign of dysfunction... We should be trying to figure out a way for teams to communicate less with each other, not more.
 > 
@@ -97,7 +97,7 @@ Det er derfor viktig å begrense behovet for kommunikasjon mellom ulike enheter 
 ### Årsak #3
 > Homomorphism insures that the structure of the system will reflect the disintegration which has occurred in the organization.
 
-Store organisasjoner og store IT-prosjekter vil nødvendigvis medføre lite fleksible systemer i overensstemmelse med Conway's Law. Om man ikke evner å ha en fleksibel organisasjon med små definerte team som eier og videreutvikler konkrete forretningsbehov på en autonom måte vil IT-systemene som produseres være uegnet for effektiv forretningsutvikling. IT-systemene blir en avbildning av en dysfunksjonell organisasjon og ikke av den forretningen organisasjonen bedriver.
+Store organisasjoner og store IT-prosjekter vil nødvendigvis medføre lite fleksible systemer i overensstemmelse med Conway's Law. Om man ikke evner å ha en fleksibel organisasjon med små definerte team som eier og videreutvikler konkrete forretningsbehov på en autonom måte vil IT-systemene som produseres være uegnet for effektiv forretningsutvikling. IT-systemene blir en avbildning av en dysfunksjonell organisasjon og ikke av den forretningen organisasjonen ønsker å bedrive.
 
 ## Hva kan vi så lære av Conway?
 Conways artikkel fra 1968 har som vi har sett hatt enorm påvirkning på moderne IT og forretningsutvikling. Man kan kanskje ikke tilskrive Conway alle trender, da for eksempel Smidig og Lean utvilsomt (også) har andre inspirasjonskilder. Men man kan ihvertfall si at Conway har vært forutseende og at artikkelen han skrev er høyst aktuell i dag.
@@ -115,3 +115,13 @@ Om du vil lese mer om mine tilgrensende synspunkter kan du ta en titt på:
 * [Kontinuerlig gevinstrealisering med UsrBizDevOps](http://open.bekk.no/usrbizdevops)
 * [A Maturity Model for Continuous Delivery](https://open.bekk.no/a-maturity-model-for-continuous-delivery)
 
+Om du foretrekker å se video kan du se:
+
+* [Orkestrering av IT-utvikling i store organisasjoner](https://vimeo.com/album/1689780/video/168649718)
+* [Slutt med IT-prosjekter!](https://vimeo.com/album/1689780/video/145015970)
+* [Kill ‘Em All – and the ultimate developer will rise again!](https://vimeo.com/album/1689780/video/105761144)
+* [Enterprise DevOps Adoptions is not mandatory - but neither is survival](https://vimeo.com/album/1689780/video/110830940)
+* [Teknosklerose - Hvordan unngå at prosjektet ditt blir stivbeint](https://vimeo.com/album/1689780/video/78631919), sammen med Martin Bekkelund
+* [Er du moden for å levere kontinuerlig?](https://vimeo.com/album/1689780/video/49445221), sammen med Sveinung Dalatun
+* [Verdien av kontinuerlige leveranser](https://vimeo.com/album/1689780/video/64172818), sammen med Sveinung Dalatun
+* [Hvis du ikke leverer kontinuerlig, så er du ikke smidig!](https://vimeo.com/album/1689780/video/28891030)
