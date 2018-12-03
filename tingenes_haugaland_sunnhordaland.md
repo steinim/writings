@@ -20,6 +20,6 @@ Vi kan samle data, prosessere data, finne sammenhenger og forstå informasjon so
 
 ## Veien videre
 
-Som du sikkert har forstått så ligger det enorme muligheter i tingenes Internett, tolking av data og kunnskap om behov. Kun kreativiteten setter begrensninger. Samskaping mellom kommunene som har et ansvar ovenfor innbyggerne, Innbyggerne som har behov, utfordringer og ønsker, og Haugaland Kraft med kompetanse og infrastruktur er en sterk konstellasjon. Tysvær er allerede i gang sammen med Haugaland Kraft, og vi håper flere kommuner henger seg på samskapingen fort. Om vi skal lykkes må vi skape sammen. Vi er klare. Drømmen om tingenes Haugaland/Sunnhordaland er i gang. Du er invitert til å skape veien videre, sammen.
+Som du sikkert har forstått så ligger det enorme muligheter i tingenes Internett, tolking av data og kunnskap om behov. Kun kreativiteten setter begrensninger. Samskaping mellom kommunene som har et ansvar ovenfor innbyggerne, innbyggerne som har behov, utfordringer og ønsker, og Haugaland Kraft med kompetanse og infrastruktur er en sterk konstellasjon. Tysvær er allerede i gang sammen med Haugaland Kraft, og vi håper flere kommuner henger seg på samskapingen fort. Om vi skal lykkes må vi skape sammen. Vi er klare. Drømmen om tingenes Haugaland/Sunnhordaland er i gang. Du er invitert til å skape veien videre, sammen.
 
 
